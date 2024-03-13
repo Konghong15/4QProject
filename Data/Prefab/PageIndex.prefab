@@ -1,0 +1,61 @@
+[
+  {
+    "Components": {
+      "OnOff": [
+        {
+          "GameObjectId": 157,
+          "IsOn": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 157,
+          "LocalPosition": {
+            "x": -1.7142856121063232,
+            "y": -0.14285705983638763,
+            "z": -4.521865867856967e-11
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 2.5849394142282115e-26,
+            "y": -6.594387796238221e-12,
+            "z": -2.1073354616873985e-08
+          },
+          "LocalScale": {
+            "x": 0.0014285714132711291,
+            "y": 0.0014285714132711291,
+            "z": 10.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "1_4_text.png",
+          "GameObjectId": 157,
+          "Layer": 2,
+          "Position": {
+            "x": 944.0,
+            "y": 711.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 24.0,
+            "y": 28.0
+          },
+          "TexSize": {
+            "x": 0.25,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 157,
+    "Name": "PageIndex"
+  }
+]

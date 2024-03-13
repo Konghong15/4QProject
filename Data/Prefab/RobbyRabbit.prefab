@@ -1,0 +1,193 @@
+[
+  {
+    "Components": {
+      "AnimationController": [
+        {
+          "AnimSpeedWeight": 1.0,
+          "EntryFileName": "Rabbit_idle.fbx",
+          "GameObjectId": 34127660,
+          "TransitionTime": 0.20000000298023224,
+          "bIsActive": true,
+          "bUseTransition": true
+        }
+      ],
+      "Character": [
+        {
+          "Friction": 0.5,
+          "GameObjectId": 34127660,
+          "IsControllable": true,
+          "IsMovable": true,
+          "JumpForce": 5.0,
+          "MaxSpeed": 10.0,
+          "Speed": 10.0
+        }
+      ],
+      "NeoAnimationClip": [
+        {
+          "Clip0": {
+            "FileName": "Rabbit_idle.fbx",
+            "FrameInterval": 1,
+            "SoundKey": "",
+            "SpriteEffectKey": "",
+            "bIsRecursive": true
+          },
+          "Clip1": {
+            "FileName": "Rabbit_run.fbx",
+            "FrameInterval": 1,
+            "SoundKey": "",
+            "SpriteEffectKey": "",
+            "bIsRecursive": true
+          },
+          "Clip2": {
+            "FileName": "Rabbit_jump1.fbx",
+            "FrameInterval": 1,
+            "SoundKey": "",
+            "SpriteEffectKey": "",
+            "bIsRecursive": false
+          },
+          "Clip3": {
+            "FileName": "Rabbit_jump2.fbx",
+            "FrameInterval": 1,
+            "SoundKey": "",
+            "SpriteEffectKey": "",
+            "bIsRecursive": false
+          },
+          "Clip4": {
+            "FileName": ".fbx",
+            "FrameInterval": 7,
+            "SoundKey": "",
+            "SpriteEffectKey": "",
+            "bIsRecursive": false
+          },
+          "Clip5": {
+            "FileName": ".fbx",
+            "FrameInterval": 7,
+            "SoundKey": "",
+            "SpriteEffectKey": "",
+            "bIsRecursive": false
+          },
+          "Clip6": {
+            "FileName": ".fbx",
+            "FrameInterval": 7,
+            "SoundKey": "",
+            "SpriteEffectKey": "",
+            "bIsRecursive": false
+          },
+          "Clip7": {
+            "FileName": ".fbx",
+            "FrameInterval": 7,
+            "SoundKey": "",
+            "SpriteEffectKey": "",
+            "bIsRecursive": false
+          },
+          "GameObjectId": 34127660,
+          "bOnFrame": false,
+          "bOnFrameEnter": false,
+          "bOnFrameExit": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 34127660,
+          "IsOn": true
+        }
+      ],
+      "Replayer": [
+        {
+          "GameObjectId": 34127660,
+          "ReplayIndex": 0,
+          "TraceIndex": 0,
+          "TraceSize": 600
+        }
+      ],
+      "RigidBody": [
+        {
+          "Extention": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Force": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "GameObjectId": 34127660,
+          "LOCK_ANGULAR": {
+            "x": true,
+            "y": true,
+            "z": true
+          },
+          "LOCK_LINEAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "MakeCollision": true,
+          "NoGravity": false,
+          "Size": {
+            "x": 100.0,
+            "y": 200.0,
+            "z": 100.0
+          },
+          "Velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Weight": 1.0,
+          "eMaterial": 1,
+          "ePhysicLayer": 4,
+          "eactorType": 1,
+          "ecollisionType": 1,
+          "eshapeType": 1
+        }
+      ],
+      "SkinnedMeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "Raabit_idle.fbx",
+          "GameObjectId": 34127660,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": false
+        }
+      ],
+      "Tag": [
+        {
+          "GameObjectId": 34127660,
+          "tag": 1
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 34127660,
+          "LocalPosition": {
+            "x": 1.9549791812896729,
+            "y": 3.1273915767669678,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 0.009999999776482582,
+            "y": 0.009999999776482582,
+            "z": 0.009999999776482582
+          }
+        }
+      ]
+    },
+    "GameObjectId": 34127660,
+    "Name": "RobbyRabbit"
+  }
+]

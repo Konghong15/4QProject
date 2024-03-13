@@ -1,0 +1,67 @@
+[
+  {
+    "Components": {
+      "OnOff": [
+        {
+          "GameObjectId": 3460137449,
+          "IsOn": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 3460137449,
+          "LocalPosition": {
+            "x": -0.5473809242248535,
+            "y": -3.758970260620117,
+            "z": -1.2139999866485596
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 27.358413696289063,
+            "y": 25.250038146972656,
+            "z": 4.208339214324951
+          }
+        }
+      ],
+      "UI3DRenderer": [
+        {
+          "Alpha": 0.5,
+          "FileName": "black.png",
+          "GameObjectId": 3460137449,
+          "Layer": 0,
+          "LookVector": {
+            "x": 0.0,
+            "y": 90.0,
+            "z": -1.0
+          },
+          "Position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 3460137449,
+    "Name": "Black3DUI"
+  }
+]

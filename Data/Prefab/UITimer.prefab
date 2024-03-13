@@ -1,0 +1,504 @@
+[
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            308929,
+            308930,
+            309597,
+            309267,
+            309634
+          ],
+          "GameObjectId": 308922
+        }
+      ],
+      "EntityIdentity": [
+        {
+          "EntityUUID": "TimerUI",
+          "GameObjectId": 308922
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 308922,
+          "IsOn": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 308922,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 308922,
+    "Name": "UITimer"
+  },
+  {
+    "Components": {
+      "EntityIdentity": [
+        {
+          "EntityUUID": "DigitCounter01",
+          "GameObjectId": 308929
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 308929,
+          "IsOn": false
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 308929,
+          "ParentID": 308922
+        }
+      ],
+      "Timer": [
+        {
+          "ClipInterval": {
+            "x": 60.0,
+            "y": 0.0
+          },
+          "ClipSize": {
+            "x": 60.0,
+            "y": 80.0
+          },
+          "FrameInterval": 1.0,
+          "GameObjectId": 308929,
+          "InitTimePos": 100.0,
+          "SpriteCount": 10,
+          "SpriteSize": {
+            "x": 600.0,
+            "y": 80.0
+          },
+          "TimePos": 87.79153442382813,
+          "bIsActive": true,
+          "bIsReset": true,
+          "bIsReverse": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 308929,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "UI_Ingame_Number.png",
+          "GameObjectId": 308929,
+          "Layer": 1,
+          "Position": {
+            "x": 895.0,
+            "y": 50.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 60.0,
+            "y": 80.0
+          },
+          "TexSize": {
+            "x": 0.10000000149011612,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.699999988079071,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 308929,
+    "Name": "UIDigitCounter01"
+  },
+  {
+    "Components": {
+      "EntityIdentity": [
+        {
+          "EntityUUID": "DigitCounter10",
+          "GameObjectId": 308930
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 308930,
+          "IsOn": false
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 308930,
+          "ParentID": 308922
+        }
+      ],
+      "Timer": [
+        {
+          "ClipInterval": {
+            "x": 60.0,
+            "y": 0.0
+          },
+          "ClipSize": {
+            "x": 60.0,
+            "y": 80.0
+          },
+          "FrameInterval": 10.0,
+          "GameObjectId": 308930,
+          "InitTimePos": 100.0,
+          "SpriteCount": 10,
+          "SpriteSize": {
+            "x": 600.0,
+            "y": 80.0
+          },
+          "TimePos": 0.0,
+          "bIsActive": true,
+          "bIsReset": true,
+          "bIsReverse": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 308930,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "UI_Ingame_Number.png",
+          "GameObjectId": 308930,
+          "Layer": 1,
+          "Position": {
+            "x": 855.0,
+            "y": 50.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 60.0,
+            "y": 80.0
+          },
+          "TexSize": {
+            "x": 0.10000000149011612,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 308930,
+    "Name": "UIDigitCounter10"
+  },
+  {
+    "Components": {
+      "EntityIdentity": [
+        {
+          "EntityUUID": "DigitCounter.10",
+          "GameObjectId": 309597
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 309597,
+          "IsOn": false
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 309597,
+          "ParentID": 308922
+        }
+      ],
+      "Timer": [
+        {
+          "ClipInterval": {
+            "x": 60.0,
+            "y": 0.0
+          },
+          "ClipSize": {
+            "x": 60.0,
+            "y": 80.0
+          },
+          "FrameInterval": 0.10000000149011612,
+          "GameObjectId": 309597,
+          "InitTimePos": 100.0,
+          "SpriteCount": 10,
+          "SpriteSize": {
+            "x": 600.0,
+            "y": 80.0
+          },
+          "TimePos": 0.0,
+          "bIsActive": true,
+          "bIsReset": true,
+          "bIsReverse": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 309597,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "UI_Ingame_Number.png",
+          "GameObjectId": 309597,
+          "Layer": 1,
+          "Position": {
+            "x": 965.0,
+            "y": 50.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 60.0,
+            "y": 80.0
+          },
+          "TexSize": {
+            "x": 0.10000000149011612,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 309597,
+    "Name": "UIDigitCounter.1"
+  },
+  {
+    "Components": {
+      "EntityIdentity": [
+        {
+          "EntityUUID": "DigitCounter.01",
+          "GameObjectId": 309267
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 309267,
+          "IsOn": false
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 309267,
+          "ParentID": 308922
+        }
+      ],
+      "Timer": [
+        {
+          "ClipInterval": {
+            "x": 60.0,
+            "y": 0.0
+          },
+          "ClipSize": {
+            "x": 60.0,
+            "y": 80.0
+          },
+          "FrameInterval": 0.009999999776482582,
+          "GameObjectId": 309267,
+          "InitTimePos": 100.0,
+          "SpriteCount": 10,
+          "SpriteSize": {
+            "x": 600.0,
+            "y": 80.0
+          },
+          "TimePos": 87.79153442382813,
+          "bIsActive": true,
+          "bIsReset": true,
+          "bIsReverse": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 309267,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "UI_Ingame_Number.png",
+          "GameObjectId": 309267,
+          "Layer": 1,
+          "Position": {
+            "x": 1005.0,
+            "y": 50.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 60.0,
+            "y": 80.0
+          },
+          "TexSize": {
+            "x": 0.10000000149011612,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.8999999761581421,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 309267,
+    "Name": "UIDigitCounter.01"
+  },
+  {
+    "Components": {
+      "EntityIdentity": [
+        {
+          "EntityUUID": "UITimerColon",
+          "GameObjectId": 309634
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 309634,
+          "IsOn": false
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 309634,
+          "ParentID": 308922
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 309634,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "UI_Ingame_Number2.png",
+          "GameObjectId": 309634,
+          "Layer": 0,
+          "Position": {
+            "x": 950.0,
+            "y": 50.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 20.0,
+            "y": 80.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 309634,
+    "Name": "UIColon"
+  }
+]

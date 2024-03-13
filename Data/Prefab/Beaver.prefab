@@ -1,0 +1,386 @@
+[
+  {
+    "Components": {
+      "AnimationController": [
+        {
+          "AnimSpeedWeight": 1.0,
+          "EntryFileName": "beaver_idle.fbx",
+          "GameObjectId": 325,
+          "TransitionTime": 0.10000000149011612,
+          "bIsActive": true,
+          "bUseTransition": true
+        }
+      ],
+      "Character": [
+        {
+          "Friction": 0.5,
+          "GameObjectId": 325,
+          "IsControllable": false,
+          "IsMovable": false,
+          "JumpForce": 3.0,
+          "MaxSpeed": 3.0,
+          "Speed": 3.0
+        }
+      ],
+      "CharacterBarrier": [
+        {
+          "BarrierOffsetSize": {
+            "x": 0.6000000238418579,
+            "y": 0.0,
+            "z": 0.8999999761581421
+          },
+          "GameObjectId": 325
+        }
+      ],
+      "Children": [
+        {
+          "ChildrenID": [
+            326
+          ],
+          "GameObjectId": 325
+        }
+      ],
+      "GroundCheckHelper": [
+        {
+          "GameObjectId": 325,
+          "GroundCheckDistance": 1.600000023841858,
+          "Offset": 0.550000011920929
+        }
+      ],
+      "JumpParameter": [
+        {
+          "GameObjectId": 325,
+          "GravityMultiplier": 2.0,
+          "JumpHeight": 0.5,
+          "JumpTimeUp": 0.0
+        }
+      ],
+      "NeoNeoAnimationClip": [
+        {
+          "Clip0": {
+            "FileName": "beaver_idle.fbx",
+            "FrameInterval": 1,
+            "SoundKey": "",
+            "SpriteEffectKey": "",
+            "bIsRecursive": true
+          },
+          "Clip1": {
+            "FileName": "beaver_run.fbx",
+            "FrameInterval": 20,
+            "SoundKey": "",
+            "SpriteEffectKey": "Walk_A",
+            "bIsRecursive": true
+          },
+          "Clip2": {
+            "FileName": "beaver_jump1.fbx",
+            "FrameInterval": 1,
+            "SoundKey": "",
+            "SpriteEffectKey": "",
+            "bIsRecursive": false
+          },
+          "Clip3": {
+            "FileName": "beaver_jump2.fbx",
+            "FrameInterval": 1,
+            "SoundKey": "",
+            "SpriteEffectKey": "",
+            "bIsRecursive": false
+          },
+          "Clip4": {
+            "FileName": "beaver_push_waiting.fbx",
+            "FrameInterval": 7,
+            "SoundKey": "",
+            "SpriteEffectKey": "",
+            "bIsRecursive": false
+          },
+          "Clip5": {
+            "FileName": "beaver_push_B.fbx",
+            "FrameInterval": 7,
+            "SoundKey": "",
+            "SpriteEffectKey": "",
+            "bIsRecursive": false
+          },
+          "Clip6": {
+            "FileName": "beaver_create.fbx",
+            "FrameInterval": 7,
+            "SoundKey": "",
+            "SpriteEffectKey": "",
+            "bIsRecursive": false
+          },
+          "Clip7": {
+            "FileName": "beaver_waiting.fbx",
+            "FrameInterval": 7,
+            "SoundKey": "",
+            "SpriteEffectKey": "",
+            "bIsRecursive": true
+          },
+          "Clip8": {
+            "FileName": "beaver_repair.fbx",
+            "FrameInterval": 7,
+            "SoundKey": "",
+            "SpriteEffectKey": "",
+            "bIsRecursive": false
+          },
+          "GameObjectId": 325,
+          "bOnFrame": true,
+          "bOnFrameEnter": false,
+          "bOnFrameExit": true
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 325,
+          "IsOn": false
+        }
+      ],
+      "Replayer": [
+        {
+          "GameObjectId": 325,
+          "ReplayIndex": 0,
+          "TraceIndex": 0,
+          "TraceSize": 600
+        }
+      ],
+      "RigidBody": [
+        {
+          "Extention": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Force": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "GameObjectId": 325,
+          "LOCK_ANGULAR": {
+            "x": true,
+            "y": true,
+            "z": true
+          },
+          "LOCK_LINEAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "MakeCollision": true,
+          "NoGravity": false,
+          "Size": {
+            "x": 100.0,
+            "y": 200.0,
+            "z": 100.0
+          },
+          "Velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0
+          },
+          "Weight": 1.0,
+          "eMaterial": 1,
+          "ePhysicLayer": 4,
+          "eactorType": 1,
+          "ecollisionType": 0,
+          "eshapeType": 0
+        }
+      ],
+      "SkinnedMeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "beaver_idle.fbx",
+          "GameObjectId": 325,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": false
+        }
+      ],
+      "SpriteEffect": [
+        {
+          "Count0": 1,
+          "Count1": 1,
+          "Count2": 1,
+          "EffectDuration0": 1.2000000476837158,
+          "EffectDuration1": 0.30000001192092896,
+          "EffectDuration2": 0.30000001192092896,
+          "EffectPrefabName0": "Effect_Walk_A.prefab",
+          "EffectPrefabName1": "Effect_PlayerLanding_right.prefab",
+          "EffectPrefabName2": "Effect_PlayerLanding_left.prefab",
+          "GameObjectId": 325,
+          "KeyName0": "Walk_A",
+          "KeyName1": "Effect_PlayerLanding_right",
+          "KeyName2": "Effect_PlayerLanding_left",
+          "Offset0": {
+            "x": 0.0,
+            "y": -1.0,
+            "z": 0.0
+          },
+          "Offset1": {
+            "x": 0.3919999897480011,
+            "y": -1.0,
+            "z": -1.2280000448226929
+          },
+          "Offset2": {
+            "x": -1.2280000448226929,
+            "y": -1.0,
+            "z": 0.3919999897480011
+          },
+          "RandomEffectDuration0": 0.05000000074505806,
+          "RandomEffectDuration1": 0.0010000000474974513,
+          "RandomEffectDuration2": 0.0010000000474974513,
+          "RandomEffectStart0": 0.0,
+          "RandomEffectStart1": 0.0010000000474974513,
+          "RandomEffectStart2": 0.0010000000474974513,
+          "RandomOffset0": {
+            "x": 0.0010000000474974513,
+            "y": 0.0010000000474974513,
+            "z": 0.0010000000474974513
+          },
+          "RandomOffset1": {
+            "x": 0.0010000000474974513,
+            "y": 0.0010000000474974513,
+            "z": 0.0010000000474974513
+          },
+          "RandomOffset2": {
+            "x": 0.0010000000474974513,
+            "y": 0.0010000000474974513,
+            "z": 0.0010000000474974513
+          }
+        }
+      ],
+      "Tag": [
+        {
+          "GameObjectId": 325,
+          "tag": 2
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 325,
+          "LocalPosition": {
+            "x": -5.0,
+            "y": 2.6570000648498535,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 0.012000000104308128,
+            "y": 0.012000000104308128,
+            "z": 0.012000000104308128
+          }
+        }
+      ]
+    },
+    "GameObjectId": 325,
+    "Name": "Beaver"
+  },
+  {
+    "Components": {
+      "OnOff": [
+        {
+          "GameObjectId": 326,
+          "IsOn": false
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 326,
+          "ParentID": 325
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 326,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 200.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 150.0,
+            "y": 150.0,
+            "z": 150.0
+          }
+        }
+      ],
+      "UI3DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "Effect_Repairable.png",
+          "GameObjectId": 326,
+          "Layer": 0,
+          "LookVector": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -1.0
+          },
+          "Position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ],
+      "UIController": [
+        {
+          "AlphaSpeed": -1.0,
+          "ClipSize": {
+            "x": 500.0,
+            "y": 500.0
+          },
+          "FrameInterval": 0.10000000149011612,
+          "GameObjectId": 326,
+          "InitAlpha": 1.0,
+          "SpriteAnimInterval": {
+            "x": 500.0,
+            "y": 0.0
+          },
+          "SpriteSize": {
+            "x": 3500.0,
+            "y": 500.0
+          },
+          "UVSpeed": {
+            "x": 0.10000000149011612,
+            "y": 0.10000000149011612
+          },
+          "bIsActive": true,
+          "bIsReset": false,
+          "bUseAlphaAnimation": false,
+          "bUseSpriteAnimation": true,
+          "bUseUVAnimation": false
+        }
+      ]
+    },
+    "GameObjectId": 326,
+    "Name": "RepairableUI"
+  }
+]

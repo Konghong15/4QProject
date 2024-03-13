@@ -1,0 +1,1043 @@
+[
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            128,
+            127,
+            126,
+            125,
+            124,
+            123,
+            122,
+            121,
+            120,
+            119,
+            118
+          ],
+          "GameObjectId": 1996
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 1996,
+          "IsOn": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 1996,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 1996,
+    "Name": "TransparentWallGroupStage02"
+  },
+  {
+    "Components": {
+      "GeometryRenderer": [
+        {
+          "Alpha": 0.5,
+          "GameObjectId": 128,
+          "KeyName": "Box",
+          "bUseAlpha": true
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 128,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 128,
+          "ParentID": 1996
+        }
+      ],
+      "RigidBody": [
+        {
+          "Extention": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Force": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "GameObjectId": 128,
+          "LOCK_ANGULAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "LOCK_LINEAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "MakeCollision": false,
+          "NoGravity": false,
+          "Size": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "Velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Weight": 1.0,
+          "eMaterial": 0,
+          "ePhysicLayer": 1,
+          "eactorType": 0,
+          "ecollisionType": 0,
+          "eshapeType": 0
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 128,
+          "LocalPosition": {
+            "x": -18.0,
+            "y": 1.0,
+            "z": -6.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 4.0,
+            "y": 50.0,
+            "z": 8.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 128,
+    "Name": "TransparentWall"
+  },
+  {
+    "Components": {
+      "GeometryRenderer": [
+        {
+          "Alpha": 0.5,
+          "GameObjectId": 127,
+          "KeyName": "Box",
+          "bUseAlpha": true
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 127,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 127,
+          "ParentID": 1996
+        }
+      ],
+      "RigidBody": [
+        {
+          "Extention": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Force": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "GameObjectId": 127,
+          "LOCK_ANGULAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "LOCK_LINEAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "MakeCollision": false,
+          "NoGravity": false,
+          "Size": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "Velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Weight": 1.0,
+          "eMaterial": 0,
+          "ePhysicLayer": 1,
+          "eactorType": 0,
+          "ecollisionType": 0,
+          "eshapeType": 0
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 127,
+          "LocalPosition": {
+            "x": -4.0,
+            "y": 1.0,
+            "z": -16.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 24.0,
+            "y": 50.0,
+            "z": 4.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 127,
+    "Name": "TransparentWall12X2"
+  },
+  {
+    "Components": {
+      "GeometryRenderer": [
+        {
+          "Alpha": 0.5,
+          "GameObjectId": 126,
+          "KeyName": "Box",
+          "bUseAlpha": true
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 126,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 126,
+          "ParentID": 1996
+        }
+      ],
+      "RigidBody": [
+        {
+          "Extention": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Force": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "GameObjectId": 126,
+          "LOCK_ANGULAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "LOCK_LINEAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "MakeCollision": false,
+          "NoGravity": false,
+          "Size": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "Velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Weight": 1.0,
+          "eMaterial": 0,
+          "ePhysicLayer": 1,
+          "eactorType": 0,
+          "ecollisionType": 0,
+          "eshapeType": 0
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 126,
+          "LocalPosition": {
+            "x": -12.0,
+            "y": 1.0,
+            "z": -12.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 16.0,
+            "y": 50.0,
+            "z": 4.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 126,
+    "Name": "TransparentWall"
+  },
+  {
+    "Components": {
+      "GeometryRenderer": [
+        {
+          "Alpha": 0.5,
+          "GameObjectId": 125,
+          "KeyName": "Box",
+          "bUseAlpha": true
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 125,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 125,
+          "ParentID": 1996
+        }
+      ],
+      "RigidBody": [
+        {
+          "Extention": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Force": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "GameObjectId": 125,
+          "LOCK_ANGULAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "LOCK_LINEAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "MakeCollision": false,
+          "NoGravity": false,
+          "Size": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "Velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Weight": 1.0,
+          "eMaterial": 0,
+          "ePhysicLayer": 1,
+          "eactorType": 0,
+          "ecollisionType": 0,
+          "eshapeType": 0
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 125,
+          "LocalPosition": {
+            "x": -8.0,
+            "y": 1.0,
+            "z": -4.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 8.0,
+            "y": 50.0,
+            "z": 4.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 125,
+    "Name": "TransparentWall"
+  },
+  {
+    "Components": {
+      "GeometryRenderer": [
+        {
+          "Alpha": 0.5,
+          "GameObjectId": 124,
+          "KeyName": "Box",
+          "bUseAlpha": true
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 124,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 124,
+          "ParentID": 1996
+        }
+      ],
+      "RigidBody": [
+        {
+          "Extention": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Force": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "GameObjectId": 124,
+          "LOCK_ANGULAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "LOCK_LINEAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "MakeCollision": false,
+          "NoGravity": false,
+          "Size": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "Velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Weight": 1.0,
+          "eMaterial": 0,
+          "ePhysicLayer": 1,
+          "eactorType": 0,
+          "ecollisionType": 0,
+          "eshapeType": 0
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 124,
+          "LocalPosition": {
+            "x": -8.0,
+            "y": 1.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 8.0,
+            "y": 50.0,
+            "z": 4.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 124,
+    "Name": "TransparentWall"
+  },
+  {
+    "Components": {
+      "GeometryRenderer": [
+        {
+          "Alpha": 0.5,
+          "GameObjectId": 123,
+          "KeyName": "Box",
+          "bUseAlpha": true
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 123,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 123,
+          "ParentID": 1996
+        }
+      ],
+      "RigidBody": [
+        {
+          "Extention": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Force": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "GameObjectId": 123,
+          "LOCK_ANGULAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "LOCK_LINEAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "MakeCollision": false,
+          "NoGravity": false,
+          "Size": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "Velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Weight": 1.0,
+          "eMaterial": 0,
+          "ePhysicLayer": 1,
+          "eactorType": 0,
+          "ecollisionType": 0,
+          "eshapeType": 0
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 123,
+          "LocalPosition": {
+            "x": -2.0,
+            "y": 1.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 4.0,
+            "y": 50.0,
+            "z": 4.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 123,
+    "Name": "TransparentWall"
+  },
+  {
+    "Components": {
+      "GeometryRenderer": [
+        {
+          "Alpha": 0.5,
+          "GameObjectId": 122,
+          "KeyName": "Box",
+          "bUseAlpha": true
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 122,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 122,
+          "ParentID": 1996
+        }
+      ],
+      "RigidBody": [
+        {
+          "Extention": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Force": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "GameObjectId": 122,
+          "LOCK_ANGULAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "LOCK_LINEAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "MakeCollision": false,
+          "NoGravity": false,
+          "Size": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "Velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Weight": 1.0,
+          "eMaterial": 0,
+          "ePhysicLayer": 1,
+          "eactorType": 0,
+          "ecollisionType": 0,
+          "eshapeType": 0
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 122,
+          "LocalPosition": {
+            "x": -18.0,
+            "y": 0.9999963045120239,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 4.0,
+            "y": 50.0,
+            "z": 4.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 122,
+    "Name": "TransparentWall"
+  },
+  {
+    "Components": {
+      "GeometryRenderer": [
+        {
+          "Alpha": 0.5,
+          "GameObjectId": 121,
+          "KeyName": "Box",
+          "bUseAlpha": true
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 121,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 121,
+          "ParentID": 1996
+        }
+      ],
+      "RigidBody": [
+        {
+          "Extention": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Force": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "GameObjectId": 121,
+          "LOCK_ANGULAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "LOCK_LINEAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "MakeCollision": false,
+          "NoGravity": false,
+          "Size": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "Velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Weight": 1.0,
+          "eMaterial": 0,
+          "ePhysicLayer": 1,
+          "eactorType": 0,
+          "ecollisionType": 0,
+          "eshapeType": 0
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 121,
+          "LocalPosition": {
+            "x": -18.0,
+            "y": 1.0,
+            "z": 4.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 4.0,
+            "y": 50.0,
+            "z": 4.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 121,
+    "Name": "TransparentWall"
+  },
+  {
+    "Components": {
+      "GeometryRenderer": [
+        {
+          "Alpha": 0.5,
+          "GameObjectId": 120,
+          "KeyName": "Box",
+          "bUseAlpha": true
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 120,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 120,
+          "ParentID": 1996
+        }
+      ],
+      "RigidBody": [
+        {
+          "Extention": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Force": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "GameObjectId": 120,
+          "LOCK_ANGULAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "LOCK_LINEAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "MakeCollision": false,
+          "NoGravity": false,
+          "Size": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "Velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Weight": 1.0,
+          "eMaterial": 0,
+          "ePhysicLayer": 1,
+          "eactorType": 0,
+          "ecollisionType": 0,
+          "eshapeType": 0
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 120,
+          "LocalPosition": {
+            "x": -8.0,
+            "y": 1.0,
+            "z": 8.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 24.0,
+            "y": 50.0,
+            "z": 4.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 120,
+    "Name": "TransparentWall12X2"
+  },
+  {
+    "Components": {
+      "GeometryRenderer": [
+        {
+          "Alpha": 0.5,
+          "GameObjectId": 119,
+          "KeyName": "Box",
+          "bUseAlpha": true
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 119,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 119,
+          "ParentID": 1996
+        }
+      ],
+      "RigidBody": [
+        {
+          "Extention": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Force": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "GameObjectId": 119,
+          "LOCK_ANGULAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "LOCK_LINEAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "MakeCollision": false,
+          "NoGravity": false,
+          "Size": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "Velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Weight": 1.0,
+          "eMaterial": 0,
+          "ePhysicLayer": 1,
+          "eactorType": 0,
+          "ecollisionType": 0,
+          "eshapeType": 0
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 119,
+          "LocalPosition": {
+            "x": 2.0,
+            "y": 1.0,
+            "z": -8.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 4.0,
+            "y": 50.0,
+            "z": 4.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 119,
+    "Name": "TransparentWall"
+  },
+  {
+    "Components": {
+      "GeometryRenderer": [
+        {
+          "Alpha": 0.5,
+          "GameObjectId": 118,
+          "KeyName": "Box",
+          "bUseAlpha": true
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 118,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 118,
+          "ParentID": 1996
+        }
+      ],
+      "RigidBody": [
+        {
+          "Extention": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Force": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "GameObjectId": 118,
+          "LOCK_ANGULAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "LOCK_LINEAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "MakeCollision": false,
+          "NoGravity": false,
+          "Size": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "Velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Weight": 1.0,
+          "eMaterial": 0,
+          "ePhysicLayer": 1,
+          "eactorType": 0,
+          "ecollisionType": 0,
+          "eshapeType": 0
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 118,
+          "LocalPosition": {
+            "x": 6.0,
+            "y": 1.0,
+            "z": -2.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 4.0,
+            "y": 50.0,
+            "z": 24.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 118,
+    "Name": "TransparentWall2X12"
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "Components": {
+      "CameraComponent": [
+        {
+          "Aspect": 1.777999997138977,
+          "FarClipPlane": 1000.0,
+          "FieldOfView": 0.7853981852531433,
+          "GameObjectId": 27075868,
+          "NearClipPlane": 0.10000000149011612,
+          "OrthoSize": 50.0,
+          "Orthographic": true
+        }
+      ],
+      "EntityIdentity": [
+        {
+          "EntityUUID": "NormalCamera",
+          "GameObjectId": 27075868
+        }
+      ],
+      "NeoTransformAnim3D": [
+        {
+          "EndPosition": {
+            "x": -45.0,
+            "y": 25.0,
+            "z": -15.0
+          },
+          "EndRotation": {
+            "w": 0.888090193271637,
+            "x": 0.254655659198761,
+            "y": 0.3678586184978485,
+            "z": -0.10548168420791626
+          },
+          "EndSize": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "GameObjectId": 27075868,
+          "InitPosition": {
+            "x": -15.0,
+            "y": 12.0,
+            "z": -15.0
+          },
+          "InitRotation": {
+            "w": 0.888090193271637,
+            "x": 0.254655659198761,
+            "y": 0.3678586184978485,
+            "z": -0.10548168420791626
+          },
+          "InitSize": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "ProcessingTime": 1.0,
+          "bIsActive": false,
+          "bIsRecursive": false,
+          "bIsReset": false,
+          "bIsReverse": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 27075868,
+          "IsOn": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 27075868,
+          "LocalPosition": {
+            "x": -15.0,
+            "y": 12.0,
+            "z": -15.0
+          },
+          "LocalRotation": {
+            "w": 0.888090193271637,
+            "x": 0.254655659198761,
+            "y": 0.3678586184978485,
+            "z": -0.10548168420791626
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 27075868,
+    "Name": "NormalCamera"
+  }
+]

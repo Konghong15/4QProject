@@ -1,0 +1,113 @@
+[
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Obj_Box_Rain.fbx",
+          "GameObjectId": 52567803,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "NeoConveyorBelt": [
+        {
+          "GameObjectId": 52567803,
+          "beltDirection": 0,
+          "beltForce": 2.0,
+          "chainedButtonID": 0,
+          "isWorking": true
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 52567803,
+          "IsOn": true
+        }
+      ],
+      "RigidBody": [
+        {
+          "Extention": {
+            "x": -0.10000000149011612,
+            "y": 0.15000000596046448,
+            "z": -0.10000000149011612
+          },
+          "Force": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "GameObjectId": 52567803,
+          "LOCK_ANGULAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "LOCK_LINEAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "MakeCollision": true,
+          "NoGravity": false,
+          "Size": {
+            "x": 2.0,
+            "y": 2.0,
+            "z": 2.0
+          },
+          "Velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Weight": 1.0,
+          "eMaterial": 2,
+          "ePhysicLayer": 2,
+          "eactorType": 0,
+          "ecollisionType": 0,
+          "eshapeType": 0
+        }
+      ],
+      "Tag": [
+        {
+          "GameObjectId": 52567803,
+          "tag": 8
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 52567803,
+          "LocalPosition": {
+            "x": 5.0,
+            "y": 3.1688475608825684,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 52567803,
+    "Name": "ConveyorBelt"
+  }
+]

@@ -1,0 +1,89 @@
+{
+  "Components": {
+    "CutSceneClip": [
+      {
+        "DirectoryPath": "../Resources/CraditCutScene",
+        "FrameCount": 3,
+        "GameObjectId": 1,
+        "Key": "craditCutScene"
+      }
+    ],
+    "CutSceneController": [
+      {
+        "FrameCount": 3,
+        "FrameIndex": 0,
+        "FrameInterval": 2.0,
+        "GameObjectId": 1,
+        "bIsActive": true,
+        "bIsRecursive": false,
+        "bIsReset": true
+      }
+    ],
+    "OnOff": [
+      {
+        "GameObjectId": 1,
+        "IsOn": true
+      },
+      {
+        "GameObjectId": 2,
+        "IsOn": true
+      }
+    ],
+    "SceneComponent": [
+      {
+        "GameObjectId": 2,
+        "SceneName": "TitleHong"
+      }
+    ],
+    "Transform": [
+      {
+        "GameObjectId": 1,
+        "LocalPosition": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalRotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "GameObjectId": 2,
+        "LocalPosition": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalRotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  "GameObjects": [
+    {
+      "Id": 1,
+      "Name": "CutScene"
+    },
+    {
+      "Id": 2,
+      "Name": "Scene"
+    }
+  ]
+}

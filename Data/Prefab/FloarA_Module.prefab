@@ -1,0 +1,454 @@
+[
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            393,
+            394,
+            395,
+            396
+          ],
+          "GameObjectId": 397
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 397,
+          "IsOn": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 397,
+          "LocalPosition": {
+            "x": -13.0,
+            "y": 0.0,
+            "z": -7.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 397,
+    "Name": "FloarA_Module"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "FloorA_004.fbx",
+          "GameObjectId": 393,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 393,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 393,
+          "ParentID": 397
+        }
+      ],
+      "RigidBody": [
+        {
+          "Extention": {
+            "x": 0.0,
+            "y": 0.05000000074505806,
+            "z": 0.0
+          },
+          "Force": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "GameObjectId": 393,
+          "LOCK_ANGULAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "LOCK_LINEAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "MakeCollision": true,
+          "NoGravity": false,
+          "Size": {
+            "x": 2.0,
+            "y": 2.0,
+            "z": 2.0
+          },
+          "Velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Weight": 1.0,
+          "eMaterial": 0,
+          "ePhysicLayer": 1,
+          "eactorType": 0,
+          "ecollisionType": 0,
+          "eshapeType": 0
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 393,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 393,
+    "Name": "Floor_TypeA"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "FloorA_002.fbx",
+          "GameObjectId": 394,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 394,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 394,
+          "ParentID": 397
+        }
+      ],
+      "RigidBody": [
+        {
+          "Extention": {
+            "x": 0.0,
+            "y": 0.05000000074505806,
+            "z": 0.0
+          },
+          "Force": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "GameObjectId": 394,
+          "LOCK_ANGULAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "LOCK_LINEAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "MakeCollision": true,
+          "NoGravity": false,
+          "Size": {
+            "x": 2.0,
+            "y": 2.0,
+            "z": 2.0
+          },
+          "Velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Weight": 1.0,
+          "eMaterial": 0,
+          "ePhysicLayer": 1,
+          "eactorType": 0,
+          "ecollisionType": 0,
+          "eshapeType": 0
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 394,
+          "LocalPosition": {
+            "x": -2.0,
+            "y": 0.0,
+            "z": -2.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 394,
+    "Name": "Floor_TypeA"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "FloorA_001.fbx",
+          "GameObjectId": 395,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 395,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 395,
+          "ParentID": 397
+        }
+      ],
+      "RigidBody": [
+        {
+          "Extention": {
+            "x": 0.0,
+            "y": 0.05000000074505806,
+            "z": 0.0
+          },
+          "Force": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "GameObjectId": 395,
+          "LOCK_ANGULAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "LOCK_LINEAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "MakeCollision": true,
+          "NoGravity": false,
+          "Size": {
+            "x": 2.0,
+            "y": 2.0,
+            "z": 2.0
+          },
+          "Velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Weight": 1.0,
+          "eMaterial": 0,
+          "ePhysicLayer": 1,
+          "eactorType": 0,
+          "ecollisionType": 0,
+          "eshapeType": 0
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 395,
+          "LocalPosition": {
+            "x": -2.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 395,
+    "Name": "Floor_TypeA"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "FloorA_003.fbx",
+          "GameObjectId": 396,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 396,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 396,
+          "ParentID": 397
+        }
+      ],
+      "RigidBody": [
+        {
+          "Extention": {
+            "x": 0.0,
+            "y": 0.05000000074505806,
+            "z": 0.0
+          },
+          "Force": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "GameObjectId": 396,
+          "LOCK_ANGULAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "LOCK_LINEAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "MakeCollision": true,
+          "NoGravity": false,
+          "Size": {
+            "x": 2.0,
+            "y": 2.0,
+            "z": 2.0
+          },
+          "Velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Weight": 1.0,
+          "eMaterial": 0,
+          "ePhysicLayer": 1,
+          "eactorType": 0,
+          "ecollisionType": 0,
+          "eshapeType": 0
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 396,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -2.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 396,
+    "Name": "Floor_TypeA"
+  }
+]

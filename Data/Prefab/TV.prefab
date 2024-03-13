@@ -1,0 +1,84 @@
+[
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Ui_Tv_Glitch.fbx",
+          "GameObjectId": 2,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 2,
+          "IsOn": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 2,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UIController": [
+        {
+          "AlphaSpeed": -0.10000000149011612,
+          "ClipSize": {
+            "x": 256.0,
+            "y": 256.0
+          },
+          "FrameInterval": 0.10000000149011612,
+          "GameObjectId": 2,
+          "InitAlpha": 1.0,
+          "SpriteAnimInterval": {
+            "x": 256.0,
+            "y": 0.0
+          },
+          "SpriteSize": {
+            "x": 4096.0,
+            "y": 256.0
+          },
+          "UVSpeed": {
+            "x": 0.10000000149011612,
+            "y": 0.10000000149011612
+          },
+          "bIsActive": true,
+          "bIsReset": false,
+          "bUseAlphaAnimation": false,
+          "bUseSpriteAnimation": true,
+          "bUseUVAnimation": false
+        }
+      ]
+    },
+    "GameObjectId": 2,
+    "Name": "TV"
+  }
+]

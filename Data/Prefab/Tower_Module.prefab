@@ -1,0 +1,162 @@
+[
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            1745982181,
+            1395680619
+          ],
+          "GameObjectId": 1745982182
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 1745982182,
+          "IsOn": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 1745982182,
+          "LocalPosition": {
+            "x": 2.3175764083862305,
+            "y": 2.0,
+            "z": 9.689779281616211
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 1745982182,
+    "Name": "Tower_Module"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower_nowin.fbx",
+          "GameObjectId": 1745982181,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 1745982181,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 1745982181,
+          "ParentID": 1745982182
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 1745982181,
+          "LocalPosition": {
+            "x": -13.9989595413208,
+            "y": -6.957313060760498,
+            "z": -9.681568145751953
+          },
+          "LocalRotation": {
+            "w": -8.429373821172703e-08,
+            "x": -0.707106351852417,
+            "y": -8.429365294659874e-08,
+            "z": -0.7071070671081543
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 0.9999995231628418,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 1745982181,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower.fbx",
+          "GameObjectId": 1395680619,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 1395680619,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 1395680619,
+          "ParentID": 1745982182
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 1395680619,
+          "LocalPosition": {
+            "x": -14.0,
+            "y": -3.0,
+            "z": -9.686312675476074
+          },
+          "LocalRotation": {
+            "w": 0.7071067094802856,
+            "x": 0.0,
+            "y": 0.7071067690849304,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 1395680619,
+    "Name": "Tower"
+  }
+]

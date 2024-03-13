@@ -1,0 +1,514 @@
+[
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            151,
+            150,
+            149,
+            148
+          ],
+          "GameObjectId": 152
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 152,
+          "IsOn": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 152,
+          "LocalPosition": {
+            "x": -7.0,
+            "y": 0.0,
+            "z": -1.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 152,
+    "Name": "Lift2X2"
+  },
+  {
+    "Components": {
+      "Lift": [
+        {
+          "ChainedButtonId": 20,
+          "GameObjectId": 151,
+          "LiftDirectionUp": true,
+          "LiftSpeed": 5.0,
+          "MaxLiftDistance": 4.0
+        }
+      ],
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "TileF",
+          "GameObjectId": 151,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 151,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 151,
+          "ParentID": 152
+        }
+      ],
+      "RigidBody": [
+        {
+          "Extention": {
+            "x": 0.0,
+            "y": 0.10000000149011612,
+            "z": 0.0
+          },
+          "Force": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "GameObjectId": 151,
+          "LOCK_ANGULAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "LOCK_LINEAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "MakeCollision": true,
+          "NoGravity": false,
+          "Size": {
+            "x": 2.0,
+            "y": 2.0,
+            "z": 2.0
+          },
+          "Velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Weight": 1.0,
+          "eMaterial": 0,
+          "ePhysicLayer": 2,
+          "eactorType": 0,
+          "ecollisionType": 0,
+          "eshapeType": 0
+        }
+      ],
+      "Tag": [
+        {
+          "GameObjectId": 151,
+          "tag": 7
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 151,
+          "LocalPosition": {
+            "x": -5.0,
+            "y": 0.0,
+            "z": -7.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 151,
+    "Name": "Lift"
+  },
+  {
+    "Components": {
+      "Lift": [
+        {
+          "ChainedButtonId": 20,
+          "GameObjectId": 150,
+          "LiftDirectionUp": true,
+          "LiftSpeed": 5.0,
+          "MaxLiftDistance": 4.0
+        }
+      ],
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "TileF",
+          "GameObjectId": 150,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 150,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 150,
+          "ParentID": 152
+        }
+      ],
+      "RigidBody": [
+        {
+          "Extention": {
+            "x": 0.0,
+            "y": 0.10000000149011612,
+            "z": 0.0
+          },
+          "Force": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "GameObjectId": 150,
+          "LOCK_ANGULAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "LOCK_LINEAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "MakeCollision": true,
+          "NoGravity": false,
+          "Size": {
+            "x": 2.0,
+            "y": 2.0,
+            "z": 2.0
+          },
+          "Velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Weight": 1.0,
+          "eMaterial": 0,
+          "ePhysicLayer": 2,
+          "eactorType": 0,
+          "ecollisionType": 0,
+          "eshapeType": 0
+        }
+      ],
+      "Tag": [
+        {
+          "GameObjectId": 150,
+          "tag": 7
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 150,
+          "LocalPosition": {
+            "x": -7.0,
+            "y": 0.0,
+            "z": -7.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 150,
+    "Name": "Lift"
+  },
+  {
+    "Components": {
+      "Lift": [
+        {
+          "ChainedButtonId": 20,
+          "GameObjectId": 149,
+          "LiftDirectionUp": true,
+          "LiftSpeed": 5.0,
+          "MaxLiftDistance": 4.0
+        }
+      ],
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "TileF",
+          "GameObjectId": 149,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 149,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 149,
+          "ParentID": 152
+        }
+      ],
+      "RigidBody": [
+        {
+          "Extention": {
+            "x": 0.0,
+            "y": 0.10000000149011612,
+            "z": 0.0
+          },
+          "Force": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "GameObjectId": 149,
+          "LOCK_ANGULAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "LOCK_LINEAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "MakeCollision": true,
+          "NoGravity": false,
+          "Size": {
+            "x": 2.0,
+            "y": 2.0,
+            "z": 2.0
+          },
+          "Velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Weight": 1.0,
+          "eMaterial": 0,
+          "ePhysicLayer": 2,
+          "eactorType": 0,
+          "ecollisionType": 0,
+          "eshapeType": 0
+        }
+      ],
+      "Tag": [
+        {
+          "GameObjectId": 149,
+          "tag": 7
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 149,
+          "LocalPosition": {
+            "x": -7.0,
+            "y": 0.0,
+            "z": -9.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 149,
+    "Name": "Lift"
+  },
+  {
+    "Components": {
+      "Lift": [
+        {
+          "ChainedButtonId": 20,
+          "GameObjectId": 148,
+          "LiftDirectionUp": true,
+          "LiftSpeed": 5.0,
+          "MaxLiftDistance": 4.0
+        }
+      ],
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "TileF",
+          "GameObjectId": 148,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 148,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 148,
+          "ParentID": 152
+        }
+      ],
+      "RigidBody": [
+        {
+          "Extention": {
+            "x": 0.0,
+            "y": 0.10000000149011612,
+            "z": 0.0
+          },
+          "Force": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "GameObjectId": 148,
+          "LOCK_ANGULAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "LOCK_LINEAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "MakeCollision": true,
+          "NoGravity": false,
+          "Size": {
+            "x": 2.0,
+            "y": 2.0,
+            "z": 2.0
+          },
+          "Velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Weight": 1.0,
+          "eMaterial": 0,
+          "ePhysicLayer": 2,
+          "eactorType": 0,
+          "ecollisionType": 0,
+          "eshapeType": 0
+        }
+      ],
+      "Tag": [
+        {
+          "GameObjectId": 148,
+          "tag": 7
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 148,
+          "LocalPosition": {
+            "x": -5.0,
+            "y": 0.0,
+            "z": -9.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 148,
+    "Name": "Lift"
+  }
+]

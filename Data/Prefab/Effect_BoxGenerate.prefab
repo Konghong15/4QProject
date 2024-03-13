@@ -1,0 +1,89 @@
+[
+  {
+    "Components": {
+      "OnOff": [
+        {
+          "GameObjectId": 1,
+          "IsOn": true
+        }
+      ],
+      "SpriteController": [
+        {
+          "ClipInterval": {
+            "x": 128.0,
+            "y": 0.0
+          },
+          "ClipSize": {
+            "x": 128.0,
+            "y": 128.0
+          },
+          "FrameInterval": 0.05000000074505806,
+          "GameObjectId": 1,
+          "SpriteCount": 13,
+          "SpriteSize": {
+            "x": 1664.0,
+            "y": 128.0
+          },
+          "bIsActive": true,
+          "bIsRecursive": false,
+          "bIsReset": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 1,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 4.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 4.5,
+            "y": 4.5,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI3DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "Effect_BoxGenerate(128x128).png",
+          "GameObjectId": 1,
+          "Layer": 0,
+          "LookVector": {
+            "x": -1.0,
+            "y": 0.0,
+            "z": -1.0
+          },
+          "Position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexSize": {
+            "x": 0.07692000269889832,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 1,
+    "Name": "Effect_BoxGenerate"
+  }
+]

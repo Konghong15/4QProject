@@ -1,0 +1,145 @@
+[
+  {
+    "Components": {
+      "AnimationController": [
+        {
+          "AnimSpeedWeight": 1.0,
+          "EntryFileName": "beaver_pick_idle.fbx",
+          "GameObjectId": 39,
+          "TransitionTime": 0.20000000298023224,
+          "bIsActive": true,
+          "bUseTransition": true
+        }
+      ],
+      "NeoNeoAnimationClip": [
+        {
+          "Clip0": {
+            "FileName": "beaver_pick_idle.fbx",
+            "FrameInterval": 7,
+            "SoundKey": "",
+            "SpriteEffectKey": "",
+            "bIsRecursive": true
+          },
+          "Clip1": {
+            "FileName": "beaver_pick.fbx",
+            "FrameInterval": 7,
+            "SoundKey": "",
+            "SpriteEffectKey": "",
+            "bIsRecursive": false
+          },
+          "Clip2": {
+            "FileName": ".fbx",
+            "FrameInterval": 7,
+            "SoundKey": "",
+            "SpriteEffectKey": "",
+            "bIsRecursive": false
+          },
+          "Clip3": {
+            "FileName": ".fbx",
+            "FrameInterval": 7,
+            "SoundKey": "",
+            "SpriteEffectKey": "",
+            "bIsRecursive": false
+          },
+          "Clip4": {
+            "FileName": ".fbx",
+            "FrameInterval": 7,
+            "SoundKey": "",
+            "SpriteEffectKey": "",
+            "bIsRecursive": false
+          },
+          "Clip5": {
+            "FileName": ".fbx",
+            "FrameInterval": 7,
+            "SoundKey": "",
+            "SpriteEffectKey": "",
+            "bIsRecursive": false
+          },
+          "Clip6": {
+            "FileName": ".fbx",
+            "FrameInterval": 7,
+            "SoundKey": "",
+            "SpriteEffectKey": "",
+            "bIsRecursive": false
+          },
+          "Clip7": {
+            "FileName": ".fbx",
+            "FrameInterval": 7,
+            "SoundKey": "",
+            "SpriteEffectKey": "",
+            "bIsRecursive": false
+          },
+          "Clip8": {
+            "FileName": ".fbx",
+            "FrameInterval": 7,
+            "SoundKey": "",
+            "SpriteEffectKey": "",
+            "bIsRecursive": false
+          },
+          "GameObjectId": 39,
+          "bOnFrame": false,
+          "bOnFrameEnter": false,
+          "bOnFrameExit": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 39,
+          "IsOn": true
+        }
+      ],
+      "SelectCharacter": [
+        {
+          "GameObjectId": 39,
+          "SelectIndex": 0,
+          "bIsSelected": false
+        }
+      ],
+      "SkinnedMeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "beaver_idle.fbx",
+          "GameObjectId": 39,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ],
+      "Tag": [
+        {
+          "GameObjectId": 39,
+          "tag": 12
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 39,
+          "LocalPosition": {
+            "x": -3.9868247509002686,
+            "y": 2.8084518909454346,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 0.009999999776482582,
+            "y": 0.009999999776482582,
+            "z": 0.009999999776482582
+          }
+        }
+      ]
+    },
+    "GameObjectId": 39,
+    "Name": "SelectBeaver"
+  }
+]

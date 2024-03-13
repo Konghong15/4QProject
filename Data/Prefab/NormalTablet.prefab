@@ -1,0 +1,103 @@
+[
+  {
+    "Components": {
+      "EntityIdentity": [
+        {
+          "EntityUUID": "NormalTablet",
+          "GameObjectId": 88279430
+        }
+      ],
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Obj_Ui_Tablet.fbx",
+          "GameObjectId": 88279430,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "NeoTransformAnim3D": [
+        {
+          "EndPosition": {
+            "x": -24.798999786376953,
+            "y": 7.071000099182129,
+            "z": 14.798999786376953
+          },
+          "EndRotation": {
+            "w": 0.8535533547401428,
+            "x": 0.3535533845424652,
+            "y": 0.3535533845424652,
+            "z": -0.1464465856552124
+          },
+          "EndSize": {
+            "x": 0.10000000149011612,
+            "y": 0.10000000149011612,
+            "z": 0.10000000149011612
+          },
+          "GameObjectId": 88279430,
+          "InitPosition": {
+            "x": -35.40599822998047,
+            "y": 7.071000099182129,
+            "z": 25.4060001373291
+          },
+          "InitRotation": {
+            "w": 0.8535533547401428,
+            "x": 0.3535533845424652,
+            "y": 0.3535533845424652,
+            "z": -0.1464465856552124
+          },
+          "InitSize": {
+            "x": 0.10000000149011612,
+            "y": 0.10000000149011612,
+            "z": 0.10000000149011612
+          },
+          "ProcessingTime": 1.0,
+          "bIsActive": false,
+          "bIsRecursive": false,
+          "bIsReset": false,
+          "bIsReverse": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 88279430,
+          "IsOn": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 88279430,
+          "LocalPosition": {
+            "x": -24.798992156982422,
+            "y": 7.071065902709961,
+            "z": 14.79898738861084
+          },
+          "LocalRotation": {
+            "w": 0.8535533547401428,
+            "x": 0.3535533845424652,
+            "y": 0.3535533845424652,
+            "z": -0.1464465856552124
+          },
+          "LocalScale": {
+            "x": 0.10000000149011612,
+            "y": 0.10000000149011612,
+            "z": 0.10000000149011612
+          }
+        }
+      ]
+    },
+    "GameObjectId": 88279430,
+    "Name": "NormalTablet"
+  }
+]

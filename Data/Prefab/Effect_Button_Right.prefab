@@ -1,0 +1,89 @@
+[
+  {
+    "Components": {
+      "OnOff": [
+        {
+          "GameObjectId": 718803620,
+          "IsOn": true
+        }
+      ],
+      "SpriteController": [
+        {
+          "ClipInterval": {
+            "x": 125.0,
+            "y": 0.0
+          },
+          "ClipSize": {
+            "x": 125.0,
+            "y": 125.0
+          },
+          "FrameInterval": 0.05000000074505806,
+          "GameObjectId": 718803620,
+          "SpriteCount": 4,
+          "SpriteSize": {
+            "x": 500.0,
+            "y": 125.0
+          },
+          "bIsActive": true,
+          "bIsRecursive": false,
+          "bIsReset": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 718803620,
+          "LocalPosition": {
+            "x": 0.800000011920929,
+            "y": 1.7000000476837158,
+            "z": -0.800000011920929
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 3.0,
+            "y": 3.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI3DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "Effect_Button.png",
+          "GameObjectId": 718803620,
+          "Layer": 0,
+          "LookVector": {
+            "x": 1.0,
+            "y": 0.0,
+            "z": 1.0
+          },
+          "Position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexSize": {
+            "x": 0.25,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 718803620,
+    "Name": "Effect_Button_Right"
+  }
+]

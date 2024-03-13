@@ -1,0 +1,324 @@
+[
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            353117731
+          ],
+          "GameObjectId": 176558862
+        }
+      ],
+      "EntityIdentity": [
+        {
+          "EntityUUID": "HardTablet",
+          "GameObjectId": 176558862
+        }
+      ],
+      "NeoTransformAnim2D": [
+        {
+          "EndPosition": {
+            "x": 1100.0,
+            "y": 100.0
+          },
+          "EndRotation": 0.0,
+          "EndSize": {
+            "x": 700.0,
+            "y": 700.0
+          },
+          "GameObjectId": 176558862,
+          "InitPosition": {
+            "x": 2005.0,
+            "y": 150.0
+          },
+          "InitRotation": 0.0,
+          "InitSize": {
+            "x": 500.0,
+            "y": 500.0
+          },
+          "ProcessingTime": 1.0,
+          "bIsActive": false,
+          "bIsRecursive": false,
+          "bIsReset": false,
+          "bIsReverse": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 176558862,
+          "IsOn": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 176558862,
+          "LocalPosition": {
+            "x": 1200.0,
+            "y": 100.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 3.970453687391325e-23,
+            "y": 1.8841108652357854e-15,
+            "z": 2.1073354616873985e-08
+          },
+          "LocalScale": {
+            "x": 700.0,
+            "y": 700.0,
+            "z": 0.10000000149011612
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "UI_Tap_Tablet.png",
+          "GameObjectId": 176558862,
+          "Layer": 0,
+          "Position": {
+            "x": 1100.0,
+            "y": 100.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 700.0,
+            "y": 700.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 176558862,
+    "Name": "HardTablet"
+  },
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            353117732,
+            353117733
+          ],
+          "GameObjectId": 353117731
+        }
+      ],
+      "EntityIdentity": [
+        {
+          "EntityUUID": "HardUIStageHong",
+          "GameObjectId": 353117731
+        }
+      ],
+      "NeoButton2D": [
+        {
+          "ButtonClickEvent": "",
+          "ButtonOutEvent": "OnLevelCursorOut",
+          "ButtonOverEvent": "OnLevelCursorIn",
+          "ClickUserData": "",
+          "GameObjectId": 353117731,
+          "OutUserData": "HardUIStageHong",
+          "OverUserData": "HardUIStageHong"
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 353117731,
+          "IsOn": false
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 353117731,
+          "ParentID": 176558862
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 353117731,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": -1.4901164746561335e-08,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 0.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "Ingame_Pause_Level.png",
+          "GameObjectId": 353117731,
+          "Layer": 1,
+          "Position": {
+            "x": 1310.0,
+            "y": 333.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 309.0,
+            "y": 100.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 353117731,
+    "Name": "UIStageHong"
+  },
+  {
+    "Components": {
+      "OnOff": [
+        {
+          "GameObjectId": 353117732,
+          "IsOn": false
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 353117732,
+          "ParentID": 353117731
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 353117732,
+          "LocalPosition": {
+            "x": 10.606998443603516,
+            "y": -2.528905497456435e-06,
+            "z": -10.606998443603516
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": -2.2351741790771484e-08,
+            "y": -1.0058283805847168e-07,
+            "z": -7.450580596923828e-08
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "Ingame_Pause.png",
+          "GameObjectId": 353117732,
+          "Layer": 1,
+          "Position": {
+            "x": 848.0,
+            "y": 165.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 364.0,
+            "y": 569.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 353117732,
+    "Name": "Preview"
+  },
+  {
+    "Components": {
+      "OnOff": [
+        {
+          "GameObjectId": 353117733,
+          "IsOn": false
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 353117733,
+          "ParentID": 353117731
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 353117733,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": -2.528905497456435e-06,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": -2.2351741790771484e-08,
+            "y": -1.0058283805847168e-07,
+            "z": -7.450580596923828e-08
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 0.20000000298023224,
+          "FileName": "Ingame_Pause.png",
+          "GameObjectId": 353117733,
+          "Layer": 2,
+          "Position": {
+            "x": 1230.0,
+            "y": 304.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 452.0,
+            "y": 140.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 353117733,
+    "Name": "Blur"
+  }
+]

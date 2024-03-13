@@ -1,0 +1,279 @@
+{
+  "Components": {
+    "BackgroundRenderer": [
+      {
+        "FileName": "rabbit_loading.png",
+        "GameObjectId": 1
+      }
+    ],
+    "NeoTransformAnim2D": [
+      {
+        "EndPosition": {
+          "x": 1446.0,
+          "y": 689.0
+        },
+        "EndRotation": 0.0,
+        "EndSize": {
+          "x": 526.0,
+          "y": 140.0
+        },
+        "GameObjectId": 3,
+        "InitPosition": {
+          "x": 2546.0,
+          "y": 689.0
+        },
+        "InitRotation": 0.0,
+        "InitSize": {
+          "x": 526.0,
+          "y": 140.0
+        },
+        "ProcessingTime": 0.6000000238418579,
+        "bIsActive": true,
+        "bIsRecursive": false,
+        "bIsReset": false,
+        "bIsReverse": false
+      },
+      {
+        "EndPosition": {
+          "x": 1579.0,
+          "y": 851.0
+        },
+        "EndRotation": 0.0,
+        "EndSize": {
+          "x": 375.0,
+          "y": 100.0
+        },
+        "GameObjectId": 4,
+        "InitPosition": {
+          "x": 2546.0,
+          "y": 851.0
+        },
+        "InitRotation": 0.0,
+        "InitSize": {
+          "x": 375.0,
+          "y": 100.0
+        },
+        "ProcessingTime": 0.6000000238418579,
+        "bIsActive": true,
+        "bIsRecursive": false,
+        "bIsReset": false,
+        "bIsReverse": false
+      }
+    ],
+    "OnOff": [
+      {
+        "GameObjectId": 1,
+        "IsOn": true
+      },
+      {
+        "GameObjectId": 2,
+        "IsOn": true
+      },
+      {
+        "GameObjectId": 3,
+        "IsOn": true
+      },
+      {
+        "GameObjectId": 4,
+        "IsOn": true
+      }
+    ],
+    "Transform": [
+      {
+        "GameObjectId": 1,
+        "LocalPosition": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalRotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "GameObjectId": 2,
+        "LocalPosition": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalRotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "GameObjectId": 3,
+        "LocalPosition": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalRotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "GameObjectId": 4,
+        "LocalPosition": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalRotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ],
+    "TransformAnim2D": [
+      {
+        "EndPosition": {
+          "x": -317.0,
+          "y": 399.0
+        },
+        "EndRotation": 0.0,
+        "EndSize": {
+          "x": 2500.0,
+          "y": 260.0
+        },
+        "GameObjectId": 2,
+        "InitPosition": {
+          "x": 2138.0,
+          "y": 399.0
+        },
+        "InitRotation": 0.0,
+        "InitSize": {
+          "x": 1250.0,
+          "y": 130.0
+        },
+        "ProcessingTime": 0.3499999940395355,
+        "bIsActive": true,
+        "bIsRecursive": false,
+        "bIsReset": false
+      }
+    ],
+    "UI2DRenderer": [
+      {
+        "Alpha": 1.0,
+        "FileName": "UI_StageEnd_Fail.png",
+        "GameObjectId": 2,
+        "Layer": 0,
+        "Position": {
+          "x": -317.0,
+          "y": 399.0
+        },
+        "Rotation": 0.0,
+        "Size": {
+          "x": 2500.0,
+          "y": 260.0
+        },
+        "TexSize": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "TexTranslate": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "bUseAlpha": true
+      },
+      {
+        "Alpha": 1.0,
+        "FileName": "UI_StageEnd_Back.png",
+        "GameObjectId": 3,
+        "Layer": 0,
+        "Position": {
+          "x": 1446.0,
+          "y": 689.0
+        },
+        "Rotation": 0.0,
+        "Size": {
+          "x": 526.0,
+          "y": 140.0
+        },
+        "TexSize": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "TexTranslate": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "bUseAlpha": true
+      },
+      {
+        "Alpha": 1.0,
+        "FileName": "UI_StageEnd_Home.png",
+        "GameObjectId": 4,
+        "Layer": 0,
+        "Position": {
+          "x": 1579.0,
+          "y": 851.0
+        },
+        "Rotation": 0.0,
+        "Size": {
+          "x": 375.0,
+          "y": 100.0
+        },
+        "TexSize": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "TexTranslate": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "bUseAlpha": true
+      }
+    ]
+  },
+  "GameObjects": [
+    {
+      "Id": 1,
+      "Name": "FailBackground"
+    },
+    {
+      "Id": 2,
+      "Name": "FailArrow"
+    },
+    {
+      "Id": 3,
+      "Name": "ReplayArrow"
+    },
+    {
+      "Id": 4,
+      "Name": "LobbyArrow"
+    }
+  ]
+}

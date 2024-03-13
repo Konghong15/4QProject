@@ -1,0 +1,66 @@
+{
+  "Components": {
+    "SceneComponent": [
+      {
+        "GameObjectId": 2,
+        "SceneName": "Stage01.scene"
+      }
+    ],
+    "Tag": [
+      {
+        "GameObjectId": 3,
+        "tag": 3
+      }
+    ],
+    "Transform": [
+      {
+        "GameObjectId": 2,
+        "LocalPosition": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalRotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "GameObjectId": 3,
+        "LocalPosition": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalRotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  "GameObjects": [
+    {
+      "Id": 2,
+      "Name": "Stage01"
+    },
+    {
+      "Id": 3,
+      "Name": "Start Position"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "Components": {
+      "BackgroundRenderer": [
+        {
+          "FileName": "background_01.png",
+          "GameObjectId": 2
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 2,
+          "IsOn": true
+        }
+      ],
+      "SkyBoxRenderer": [
+        {
+          "BRDF_LUTName": "TickTockCubeMapBrdf.dds",
+          "DiffuseName": "TickTockCubeMapDiffuseHDR.dds",
+          "GameObjectId": 2,
+          "SkyBoxName": "",
+          "SpecularName": "TickTockCubeMapSpecularHDR.dds",
+          "bUseIBL": true,
+          "bUseSkyBox": false
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 2,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 2,
+    "Name": "TickTockBackground"
+  }
+]

@@ -1,0 +1,720 @@
+{
+  "Components": {
+    "AnimationController": [
+      {
+        "AnimSpeedWeight": 1.0,
+        "EntryFileName": "beaver_pick.fbx",
+        "GameObjectId": 4687458,
+        "TransitionTime": 0.10000000149011612,
+        "bIsActive": true,
+        "bUseTransition": true
+      },
+      {
+        "AnimSpeedWeight": 0.8999999761581421,
+        "EntryFileName": "beaver_run.fbx",
+        "GameObjectId": 4687713,
+        "TransitionTime": 0.20000000298023224,
+        "bIsActive": true,
+        "bUseTransition": true
+      },
+      {
+        "AnimSpeedWeight": 0.8999999761581421,
+        "EntryFileName": "cat_run.fbx",
+        "GameObjectId": 4687714,
+        "TransitionTime": 0.20000000298023224,
+        "bIsActive": true,
+        "bUseTransition": true
+      },
+      {
+        "AnimSpeedWeight": 1.2000000476837158,
+        "EntryFileName": "Rabbit_run.fbx",
+        "GameObjectId": 4687715,
+        "TransitionTime": 0.20000000298023224,
+        "bIsActive": true,
+        "bUseTransition": true
+      }
+    ],
+    "BackgroundRenderer": [
+      {
+        "FileName": "beaver_loading.png",
+        "GameObjectId": 1
+      }
+    ],
+    "CameraComponent": [
+      {
+        "Aspect": 1.777999997138977,
+        "FarClipPlane": 1000.0,
+        "FieldOfView": 0.7853981852531433,
+        "GameObjectId": 4687459,
+        "NearClipPlane": 0.10000000149011612,
+        "OrthoSize": 10.0,
+        "Orthographic": false
+      }
+    ],
+    "Children": [
+      {
+        "ChildrenID": [
+          4687716,
+          4687715,
+          4687714,
+          4687713
+        ],
+        "GameObjectId": 4687717
+      }
+    ],
+    "NeoAnimationClip": [
+      {
+        "Clip0": {
+          "FileName": "beaver_pick.fbx",
+          "FrameInterval": 1,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "Clip1": {
+          "FileName": "",
+          "FrameInterval": 1,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "Clip2": {
+          "FileName": "",
+          "FrameInterval": 1,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "Clip3": {
+          "FileName": "",
+          "FrameInterval": 1,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "Clip4": {
+          "FileName": "",
+          "FrameInterval": 1,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "Clip5": {
+          "FileName": "",
+          "FrameInterval": 1,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "Clip6": {
+          "FileName": ".fbx",
+          "FrameInterval": 7,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "Clip7": {
+          "FileName": ".fbx",
+          "FrameInterval": 7,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "GameObjectId": 4687458,
+        "bOnFrame": false,
+        "bOnFrameEnter": false,
+        "bOnFrameExit": false
+      },
+      {
+        "Clip0": {
+          "FileName": "beaver_run.fbx",
+          "FrameInterval": 7,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": true
+        },
+        "Clip1": {
+          "FileName": ".fbx",
+          "FrameInterval": 1,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "Clip2": {
+          "FileName": ".fbx",
+          "FrameInterval": 7,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "Clip3": {
+          "FileName": ".fbx",
+          "FrameInterval": 7,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "Clip4": {
+          "FileName": ".fbx",
+          "FrameInterval": 7,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "Clip5": {
+          "FileName": ".fbx",
+          "FrameInterval": 7,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "Clip6": {
+          "FileName": ".fbx",
+          "FrameInterval": 7,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "Clip7": {
+          "FileName": ".fbx",
+          "FrameInterval": 7,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "GameObjectId": 4687713,
+        "bOnFrame": false,
+        "bOnFrameEnter": false,
+        "bOnFrameExit": false
+      },
+      {
+        "Clip0": {
+          "FileName": "cat_run.fbx",
+          "FrameInterval": 7,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": true
+        },
+        "Clip1": {
+          "FileName": ".fbx",
+          "FrameInterval": 1,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "Clip2": {
+          "FileName": ".fbx",
+          "FrameInterval": 7,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "Clip3": {
+          "FileName": ".fbx",
+          "FrameInterval": 7,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "Clip4": {
+          "FileName": ".fbx",
+          "FrameInterval": 7,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "Clip5": {
+          "FileName": ".fbx",
+          "FrameInterval": 7,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "Clip6": {
+          "FileName": ".fbx",
+          "FrameInterval": 7,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "Clip7": {
+          "FileName": ".fbx",
+          "FrameInterval": 7,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "GameObjectId": 4687714,
+        "bOnFrame": false,
+        "bOnFrameEnter": false,
+        "bOnFrameExit": false
+      },
+      {
+        "Clip0": {
+          "FileName": "Rabbit_run.fbx",
+          "FrameInterval": 7,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": true
+        },
+        "Clip1": {
+          "FileName": ".fbx",
+          "FrameInterval": 7,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "Clip2": {
+          "FileName": ".fbx",
+          "FrameInterval": 7,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "Clip3": {
+          "FileName": ".fbx",
+          "FrameInterval": 7,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "Clip4": {
+          "FileName": ".fbx",
+          "FrameInterval": 7,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "Clip5": {
+          "FileName": ".fbx",
+          "FrameInterval": 7,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "Clip6": {
+          "FileName": ".fbx",
+          "FrameInterval": 7,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "Clip7": {
+          "FileName": ".fbx",
+          "FrameInterval": 7,
+          "SoundKey": "",
+          "SpriteEffectKey": "",
+          "bIsRecursive": false
+        },
+        "GameObjectId": 4687715,
+        "bOnFrame": false,
+        "bOnFrameEnter": false,
+        "bOnFrameExit": false
+      }
+    ],
+    "NeoTransformAnim3D": [
+      {
+        "EndPosition": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "EndRotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "EndSize": {
+          "x": 0.009999999776482582,
+          "y": 0.009999999776482582,
+          "z": 0.009999999776482582
+        },
+        "GameObjectId": 4687458,
+        "InitPosition": {
+          "x": -1.75,
+          "y": 0.0,
+          "z": -1.0
+        },
+        "InitRotation": {
+          "w": 0.9848077893257141,
+          "x": -0.0,
+          "y": -0.17364810407161713,
+          "z": 0.0
+        },
+        "InitSize": {
+          "x": 0.009999999776482582,
+          "y": 0.009999999776482582,
+          "z": 0.009999999776482582
+        },
+        "ProcessingTime": 1.0,
+        "bIsActive": false,
+        "bIsRecursive": false,
+        "bIsReset": false,
+        "bIsReverse": false
+      }
+    ],
+    "OnOff": [
+      {
+        "GameObjectId": 1,
+        "IsOn": true
+      },
+      {
+        "GameObjectId": 2,
+        "IsOn": true
+      },
+      {
+        "GameObjectId": 4687458,
+        "IsOn": true
+      },
+      {
+        "GameObjectId": 4687459,
+        "IsOn": true
+      },
+      {
+        "GameObjectId": 4687713,
+        "IsOn": true
+      },
+      {
+        "GameObjectId": 4687714,
+        "IsOn": true
+      },
+      {
+        "GameObjectId": 4687715,
+        "IsOn": true
+      },
+      {
+        "GameObjectId": 4687717,
+        "IsOn": true
+      },
+      {
+        "GameObjectId": 4687716,
+        "IsOn": true
+      }
+    ],
+    "Parent": [
+      {
+        "GameObjectId": 4687716,
+        "ParentID": 4687717
+      },
+      {
+        "GameObjectId": 4687715,
+        "ParentID": 4687717
+      },
+      {
+        "GameObjectId": 4687714,
+        "ParentID": 4687717
+      },
+      {
+        "GameObjectId": 4687713,
+        "ParentID": 4687717
+      }
+    ],
+    "SkinnedMeshRenderer": [
+      {
+        "Alpha": 1.0,
+        "FileName": "beaver_idle.fbx",
+        "GameObjectId": 4687458,
+        "TexSize": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "TexTranslate": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "bUseAlpha": false
+      },
+      {
+        "Alpha": 1.0,
+        "FileName": "beaver_idle.fbx",
+        "GameObjectId": 4687713,
+        "TexSize": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "TexTranslate": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "bUseAlpha": false
+      },
+      {
+        "Alpha": 1.0,
+        "FileName": "cat_idle.fbx",
+        "GameObjectId": 4687714,
+        "TexSize": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "TexTranslate": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "bUseAlpha": false
+      },
+      {
+        "Alpha": 1.0,
+        "FileName": "Raabit_idle.fbx",
+        "GameObjectId": 4687715,
+        "TexSize": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "TexTranslate": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "bUseAlpha": false
+      }
+    ],
+    "SkyBoxRenderer": [
+      {
+        "BRDF_LUTName": "CubicFirstCubeMapBrdf.dds",
+        "DiffuseName": "CubicFirstCubeMapDiffuseHDR.dds",
+        "GameObjectId": 2,
+        "SkyBoxName": "CubicFirstCubeMapEnvHDR.dds",
+        "SpecularName": "CubicFirstCubeMapSpecularHDR.dds",
+        "bUseIBL": true,
+        "bUseSkyBox": false
+      }
+    ],
+    "Transform": [
+      {
+        "GameObjectId": 1,
+        "LocalPosition": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalRotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "GameObjectId": 2,
+        "LocalPosition": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalRotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "GameObjectId": 4687458,
+        "LocalPosition": {
+          "x": -1.75,
+          "y": 0.0,
+          "z": -1.0
+        },
+        "LocalRotation": {
+          "w": 0.9848077893257141,
+          "x": 4.211623263472575e-07,
+          "y": -0.17364810407161713,
+          "z": -2.3885258997324854e-06
+        },
+        "LocalScale": {
+          "x": 0.009999999776482582,
+          "y": 0.009999999776482582,
+          "z": 0.009999999776482582
+        }
+      },
+      {
+        "GameObjectId": 4687459,
+        "LocalPosition": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": -5.5
+        },
+        "LocalRotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "GameObjectId": 4687713,
+        "LocalPosition": {
+          "x": 4.012505054473877,
+          "y": -2.312924861907959,
+          "z": 20.085634231567383
+        },
+        "LocalRotation": {
+          "w": 0.9971847534179688,
+          "x": 0.043538499623537064,
+          "y": 0.060990504920482635,
+          "z": -0.002662983722984791
+        },
+        "LocalScale": {
+          "x": 0.020999999716877937,
+          "y": 0.020999999716877937,
+          "z": 0.020999999716877937
+        }
+      },
+      {
+        "GameObjectId": 4687714,
+        "LocalPosition": {
+          "x": 8.022557258605957,
+          "y": -2.503805160522461,
+          "z": 20.084186553955078
+        },
+        "LocalRotation": {
+          "w": 0.9905012249946594,
+          "x": 0.04324623569846153,
+          "y": 0.13040201365947723,
+          "z": -0.005693492479622364
+        },
+        "LocalScale": {
+          "x": 0.020999999716877937,
+          "y": 0.020999999716877937,
+          "z": 0.020999999716877937
+        }
+      },
+      {
+        "GameObjectId": 4687715,
+        "LocalPosition": {
+          "x": 12.032649040222168,
+          "y": -2.503805160522461,
+          "z": 20.080808639526367
+        },
+        "LocalRotation": {
+          "w": 0.9806929230690002,
+          "x": 0.04281795397400856,
+          "y": 0.19062726199626923,
+          "z": -0.008322954177856445
+        },
+        "LocalScale": {
+          "x": 0.020999999716877937,
+          "y": 0.020999999716877937,
+          "z": 0.020999999716877937
+        }
+      },
+      {
+        "GameObjectId": 4687717,
+        "LocalPosition": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalRotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "GameObjectId": 4687716,
+        "LocalPosition": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalRotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ],
+    "UI2DRenderer": [
+      {
+        "Alpha": 1.0,
+        "FileName": "eye catch3_text.png",
+        "GameObjectId": 4687716,
+        "Layer": 0,
+        "Position": {
+          "x": 1188.0,
+          "y": 905.0
+        },
+        "Rotation": 0.0,
+        "Size": {
+          "x": 408.0,
+          "y": 111.0
+        },
+        "TexSize": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "TexTranslate": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "bUseAlpha": true
+      }
+    ]
+  },
+  "GameObjects": [
+    {
+      "Id": 1,
+      "Name": "background"
+    },
+    {
+      "Id": 2,
+      "Name": "SkyBoxRenderer"
+    },
+    {
+      "Id": 4687458,
+      "Name": "EyeCatchBeaver"
+    },
+    {
+      "Id": 4687459,
+      "Name": "Camera"
+    },
+    {
+      "Id": 4687717,
+      "Name": "Animation"
+    },
+    {
+      "Id": 4687716,
+      "Name": "EyeCatchText"
+    },
+    {
+      "Id": 4687715,
+      "Name": "walkingRabbit"
+    },
+    {
+      "Id": 4687714,
+      "Name": "walkingCat"
+    },
+    {
+      "Id": 4687713,
+      "Name": "walkingBeaver"
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+[
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            6027,
+            6028,
+            6029,
+            6031
+          ],
+          "GameObjectId": 6026
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 6026,
+          "IsOn": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 6026,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "UI_Tap_Tablet.png",
+          "GameObjectId": 6026,
+          "Layer": 0,
+          "Position": {
+            "x": 649.0,
+            "y": 45.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 620.0,
+            "y": 830.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 6026,
+    "Name": "UIInGameConfig"
+  },
+  {
+    "Components": {
+      "Button2D": [
+        {
+          "ButtonEvent": "OnResume",
+          "GameObjectId": 6027,
+          "UserData": ""
+        }
+      ],
+      "EntityIdentity": [
+        {
+          "EntityUUID": "Ingame_Pause_Continue",
+          "GameObjectId": 6027
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 6027,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 6027,
+          "ParentID": 6026
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 6027,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "Tablet_Mission.png",
+          "GameObjectId": 6027,
+          "Layer": 0,
+          "Position": {
+            "x": 800.0,
+            "y": 500.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 315.0,
+            "y": 67.5
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 6027,
+    "Name": "UIResume"
+  },
+  {
+    "Components": {
+      "Button2D": [
+        {
+          "ButtonEvent": "OnLevelButtonClick",
+          "GameObjectId": 6028,
+          "UserData": "LevelSelectHong.scene"
+        }
+      ],
+      "EntityIdentity": [
+        {
+          "EntityUUID": "Ingame_Pause_Restart",
+          "GameObjectId": 6028
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 6028,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 6028,
+          "ParentID": 6026
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 6028,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "tablet_home.png",
+          "GameObjectId": 6028,
+          "Layer": 0,
+          "Position": {
+            "x": 800.0,
+            "y": 580.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 315.0,
+            "y": 67.5
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 6028,
+    "Name": "UILevelSelect"
+  },
+  {
+    "Components": {
+      "EntityIdentity": [
+        {
+          "EntityUUID": "Ingame_Quit",
+          "GameObjectId": 6029
+        }
+      ],
+      "NeoButton2D": [
+        {
+          "ButtonClickEvent": "OnQuit",
+          "ButtonOutEvent": "",
+          "ButtonOverEvent": "",
+          "ClickUserData": "",
+          "GameObjectId": 6029,
+          "OutUserData": "",
+          "OverUserData": ""
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 6029,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 6029,
+          "ParentID": 6026
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 6029,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "Tablet_Go_out.png",
+          "GameObjectId": 6029,
+          "Layer": 0,
+          "Position": {
+            "x": 800.0,
+            "y": 660.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 315.0,
+            "y": 67.5
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 6029,
+    "Name": "UIQuit"
+  },
+  {
+    "Components": {
+      "OnOff": [
+        {
+          "GameObjectId": 6031,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 6031,
+          "ParentID": 6026
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 6031,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "Tablet_Stop.png",
+          "GameObjectId": 6031,
+          "Layer": 2,
+          "Position": {
+            "x": 845.0,
+            "y": 305.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 225.0,
+            "y": 175.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 6031,
+    "Name": "UIPause"
+  }
+]

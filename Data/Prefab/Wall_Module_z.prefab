@@ -1,0 +1,162 @@
+[
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            921987,
+            921986
+          ],
+          "GameObjectId": 921988
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 921988,
+          "IsOn": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 921988,
+          "LocalPosition": {
+            "x": 11.587020874023438,
+            "y": -0.11104953289031982,
+            "z": -4.0142107009887695
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 921988,
+    "Name": "Wall_Module_z"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "wall.fbx",
+          "GameObjectId": 921987,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 921987,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 921987,
+          "ParentID": 921988
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 921987,
+          "LocalPosition": {
+            "x": -13.862760543823242,
+            "y": -3.0,
+            "z": -9.696619033813477
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 921987,
+    "Name": "wall"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "no.fbx",
+          "GameObjectId": 921986,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 921986,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 921986,
+          "ParentID": 921988
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 921986,
+          "LocalPosition": {
+            "x": -13.863154411315918,
+            "y": -7.000000476837158,
+            "z": -9.698267936706543
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 0.9999995231628418,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 921986,
+    "Name": "Wall_no"
+  }
+]

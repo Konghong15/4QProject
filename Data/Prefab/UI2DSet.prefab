@@ -1,0 +1,1273 @@
+[
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            315,
+            316,
+            299,
+            8,
+            7,
+            9,
+            3,
+            322,
+            323,
+            324,
+            325
+          ],
+          "GameObjectId": 314
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 314,
+          "IsOn": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 314,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 314,
+    "Name": "UI2DSet"
+  },
+  {
+    "Components": {
+      "EntityIdentity": [
+        {
+          "EntityUUID": "MissionClearUI",
+          "GameObjectId": 315
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 315,
+          "IsOn": false
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 315,
+          "ParentID": 314
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 315,
+          "LocalPosition": {
+            "x": -3.0,
+            "y": 0.0,
+            "z": -17.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "Ingame_Clear.png",
+          "GameObjectId": 315,
+          "Layer": 0,
+          "Position": {
+            "x": 600.0,
+            "y": 150.0
+          },
+          "Rotation": 9.0,
+          "Size": {
+            "x": 688.0,
+            "y": 206.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 315,
+    "Name": "UIMissionClear"
+  },
+  {
+    "Components": {
+      "EntityIdentity": [
+        {
+          "EntityUUID": "MissionFailUI",
+          "GameObjectId": 316
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 316,
+          "IsOn": false
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 316,
+          "ParentID": 314
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 316,
+          "LocalPosition": {
+            "x": -3.0,
+            "y": 0.0,
+            "z": -17.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "Ingame_Failed.png",
+          "GameObjectId": 316,
+          "Layer": 0,
+          "Position": {
+            "x": 600.0,
+            "y": 150.0
+          },
+          "Rotation": 9.0,
+          "Size": {
+            "x": 688.0,
+            "y": 206.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 316,
+    "Name": "UIMissionFail"
+  },
+  {
+    "Components": {
+      "Button2D": [
+        {
+          "ButtonEvent": "OnUndo",
+          "GameObjectId": 299,
+          "UserData": ""
+        }
+      ],
+      "EntityIdentity": [
+        {
+          "EntityUUID": "ResetBtn",
+          "GameObjectId": 299
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 299,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 299,
+          "ParentID": 314
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 299,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "UI_Ingame_Replay.png",
+          "GameObjectId": 299,
+          "Layer": 0,
+          "Position": {
+            "x": 175.0,
+            "y": 970.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 100.0,
+            "y": 100.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 299,
+    "Name": "UIUndo"
+  },
+  {
+    "Components": {
+      "Button2D": [
+        {
+          "ButtonEvent": "OnNextStageBtnClick",
+          "GameObjectId": 8,
+          "UserData": "NextStageName"
+        }
+      ],
+      "EntityIdentity": [
+        {
+          "EntityUUID": "NextStageBtn",
+          "GameObjectId": 8
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 8,
+          "IsOn": false
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 8,
+          "ParentID": 314
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 8,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "Ingame_StageEnd_Nextlevel.png",
+          "GameObjectId": 8,
+          "Layer": 0,
+          "Position": {
+            "x": 1200.0,
+            "y": 900.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 100.0,
+            "y": 100.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 8,
+    "Name": "UINextStageBtn"
+  },
+  {
+    "Components": {
+      "Button2D": [
+        {
+          "ButtonEvent": "OnReplayBtnClick",
+          "GameObjectId": 7,
+          "UserData": ""
+        }
+      ],
+      "EntityIdentity": [
+        {
+          "EntityUUID": "ReplayBtn",
+          "GameObjectId": 7
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 7,
+          "IsOn": false
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 7,
+          "ParentID": 314
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 7,
+          "LocalPosition": {
+            "x": -3.0,
+            "y": 0.0,
+            "z": -17.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "Ingame_StageEnd_Retry.png",
+          "GameObjectId": 7,
+          "Layer": 0,
+          "Position": {
+            "x": 950.0,
+            "y": 900.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 100.0,
+            "y": 100.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 7,
+    "Name": "UIReplayBtn"
+  },
+  {
+    "Components": {
+      "Button2D": [
+        {
+          "ButtonEvent": "OnLobbyBtnClick",
+          "GameObjectId": 9,
+          "UserData": "LevelSelectHong.scene"
+        }
+      ],
+      "EntityIdentity": [
+        {
+          "EntityUUID": "LobbyBtn",
+          "GameObjectId": 9
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 9,
+          "IsOn": false
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 9,
+          "ParentID": 314
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 9,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "Ingame_StageEnd_Backhome.png",
+          "GameObjectId": 9,
+          "Layer": 0,
+          "Position": {
+            "x": 700.0,
+            "y": 900.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 100.0,
+            "y": 100.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 9,
+    "Name": "UILobbyBtn"
+  },
+  {
+    "Components": {
+      "Button2D": [
+        {
+          "ButtonEvent": "OnPlayBtnClick",
+          "GameObjectId": 3,
+          "UserData": ""
+        }
+      ],
+      "EntityIdentity": [
+        {
+          "EntityUUID": "PlayBtn",
+          "GameObjectId": 3
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 3,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 3,
+          "ParentID": 314
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 3,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "Ingame_Enter.png",
+          "GameObjectId": 3,
+          "Layer": 0,
+          "Position": {
+            "x": 1720.0,
+            "y": 880.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 200.0,
+            "y": 200.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 3,
+    "Name": "UIPlay"
+  },
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            329,
+            330
+          ],
+          "GameObjectId": 322
+        }
+      ],
+      "EntityIdentity": [
+        {
+          "EntityUUID": "TimerUI",
+          "GameObjectId": 322
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 322,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 322,
+          "ParentID": 314
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 322,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "Ingame_Timer.png",
+          "GameObjectId": 322,
+          "Layer": 0,
+          "Position": {
+            "x": 15.0,
+            "y": 15.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 261.0,
+            "y": 321.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 322,
+    "Name": "UITimer"
+  },
+  {
+    "Components": {
+      "EntityIdentity": [
+        {
+          "EntityUUID": "DigitCounter01",
+          "GameObjectId": 329
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 329,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 329,
+          "ParentID": 322
+        }
+      ],
+      "Timer": [
+        {
+          "ClipInterval": {
+            "x": 60.0,
+            "y": 0.0
+          },
+          "ClipSize": {
+            "x": 60.0,
+            "y": 80.0
+          },
+          "FrameInterval": 1.0,
+          "GameObjectId": 329,
+          "InitTimePos": 100.0,
+          "SpriteCount": 10,
+          "SpriteSize": {
+            "x": 600.0,
+            "y": 80.0
+          },
+          "TimePos": 0.0,
+          "bIsActive": true,
+          "bIsReset": true,
+          "bIsReverse": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 329,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "UI_Ingame_Number.png",
+          "GameObjectId": 329,
+          "Layer": 0,
+          "Position": {
+            "x": 140.0,
+            "y": 170.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 60.0,
+            "y": 80.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 329,
+    "Name": "UIDigitCounter01"
+  },
+  {
+    "Components": {
+      "EntityIdentity": [
+        {
+          "EntityUUID": "DigitCounter10",
+          "GameObjectId": 330
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 330,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 330,
+          "ParentID": 322
+        }
+      ],
+      "Timer": [
+        {
+          "ClipInterval": {
+            "x": 60.0,
+            "y": 0.0
+          },
+          "ClipSize": {
+            "x": 60.0,
+            "y": 80.0
+          },
+          "FrameInterval": 10.0,
+          "GameObjectId": 330,
+          "InitTimePos": 100.0,
+          "SpriteCount": 10,
+          "SpriteSize": {
+            "x": 600.0,
+            "y": 80.0
+          },
+          "TimePos": 0.0,
+          "bIsActive": true,
+          "bIsReset": true,
+          "bIsReverse": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 330,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "UI_Ingame_Number.png",
+          "GameObjectId": 330,
+          "Layer": 0,
+          "Position": {
+            "x": 100.0,
+            "y": 170.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 60.0,
+            "y": 80.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 330,
+    "Name": "UIDigitCounter10"
+  },
+  {
+    "Components": {
+      "Button2D": [
+        {
+          "ButtonEvent": "OnResetStage",
+          "GameObjectId": 323,
+          "UserData": ""
+        }
+      ],
+      "EntityIdentity": [
+        {
+          "EntityUUID": "SkipBtn",
+          "GameObjectId": 323
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 323,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 323,
+          "ParentID": 314
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 323,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "UI_Ingame_Skip.png",
+          "GameObjectId": 323,
+          "Layer": 0,
+          "Position": {
+            "x": 290.0,
+            "y": 970.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 100.0,
+            "y": 100.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 323,
+    "Name": "UISkip"
+  },
+  {
+    "Components": {
+      "Button2D": [
+        {
+          "ButtonEvent": "OnResetStage",
+          "GameObjectId": 324,
+          "UserData": ""
+        }
+      ],
+      "EntityIdentity": [
+        {
+          "EntityUUID": "ResetBtn",
+          "GameObjectId": 324
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 324,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 324,
+          "ParentID": 314
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 324,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "UI_Ingame_Change.png",
+          "GameObjectId": 324,
+          "Layer": 0,
+          "Position": {
+            "x": 50.0,
+            "y": 970.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 100.0,
+            "y": 100.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 324,
+    "Name": "UIReset"
+  },
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            328,
+            326,
+            327
+          ],
+          "GameObjectId": 325
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 325,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 325,
+          "ParentID": 314
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 325,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 325,
+    "Name": "Portraits"
+  },
+  {
+    "Components": {
+      "EntityIdentity": [
+        {
+          "EntityUUID": "Portrait03",
+          "GameObjectId": 328
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 328,
+          "IsOn": false
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 328,
+          "ParentID": 325
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 328,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "UI_Ingame_Portrait_Beaver.png",
+          "GameObjectId": 328,
+          "Layer": 0,
+          "Position": {
+            "x": 1750.0,
+            "y": 925.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 130.0,
+            "y": 150.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 328,
+    "Name": "UIPortrait03"
+  },
+  {
+    "Components": {
+      "EntityIdentity": [
+        {
+          "EntityUUID": "Portrait01",
+          "GameObjectId": 326
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 326,
+          "IsOn": false
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 326,
+          "ParentID": 325
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 326,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "UI_Ingame_Portrait_Beaver.png",
+          "GameObjectId": 326,
+          "Layer": 0,
+          "Position": {
+            "x": 1450.0,
+            "y": 925.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 130.0,
+            "y": 150.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 326,
+    "Name": "UIPortrait01"
+  },
+  {
+    "Components": {
+      "EntityIdentity": [
+        {
+          "EntityUUID": "Portrait02",
+          "GameObjectId": 327
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 327,
+          "IsOn": false
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 327,
+          "ParentID": 325
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 327,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "UI_Ingame_Portrait_Beaver.png",
+          "GameObjectId": 327,
+          "Layer": 0,
+          "Position": {
+            "x": 1600.0,
+            "y": 925.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 130.0,
+            "y": 150.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 327,
+    "Name": "UIPortrait02"
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "Components": {
+      "OnOff": [
+        {
+          "GameObjectId": 306,
+          "IsOn": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 306,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 6.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 2.0,
+            "y": 2.0,
+            "z": 2.0
+          }
+        }
+      ],
+      "UI3DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "Dimension_Atlas_25.png",
+          "GameObjectId": 306,
+          "Layer": 0,
+          "LookVector": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -1.0
+          },
+          "Position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ],
+      "UIController": [
+        {
+          "AlphaSpeed": -0.10000000149011612,
+          "ClipSize": {
+            "x": 125.0,
+            "y": 125.0
+          },
+          "FrameInterval": 0.20000000298023224,
+          "GameObjectId": 306,
+          "InitAlpha": 1.0,
+          "SpriteAnimInterval": {
+            "x": 125.0,
+            "y": 0.0
+          },
+          "SpriteSize": {
+            "x": 1625.0,
+            "y": 125.0
+          },
+          "UVSpeed": {
+            "x": 0.10000000149011612,
+            "y": 0.10000000149011612
+          },
+          "bIsActive": true,
+          "bIsReset": false,
+          "bUseAlphaAnimation": false,
+          "bUseSpriteAnimation": true,
+          "bUseUVAnimation": false
+        }
+      ]
+    },
+    "GameObjectId": 306,
+    "Name": "TempEffect"
+  }
+]

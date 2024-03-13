@@ -1,0 +1,151 @@
+[
+  {
+    "Components": {
+      "DimensionCrack": [
+        {
+          "CharactersNearCrack": 0,
+          "GameObjectId": 2139
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 2139,
+          "IsOn": true
+        }
+      ],
+      "RigidBody": [
+        {
+          "Extention": {
+            "x": 1.5,
+            "y": 0.0,
+            "z": 1.5
+          },
+          "Force": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "GameObjectId": 2139,
+          "LOCK_ANGULAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "LOCK_LINEAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "MakeCollision": true,
+          "NoGravity": false,
+          "Size": {
+            "x": 0.5,
+            "y": 0.5,
+            "z": 0.5
+          },
+          "Velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Weight": 1.0,
+          "eMaterial": 0,
+          "ePhysicLayer": 8,
+          "eactorType": 0,
+          "ecollisionType": 2,
+          "eshapeType": 2
+        }
+      ],
+      "Tag": [
+        {
+          "GameObjectId": 2139,
+          "tag": 4
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 2139,
+          "LocalPosition": {
+            "x": 2.999999523162842,
+            "y": 10.0,
+            "z": -10.0
+          },
+          "LocalRotation": {
+            "w": 0.7071067094802856,
+            "x": 0.0,
+            "y": 0.7071067690849304,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 2.0,
+            "y": 2.0,
+            "z": 2.0
+          }
+        }
+      ],
+      "UI3DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "Dimension_Atlas_25.png",
+          "GameObjectId": 2139,
+          "Layer": 0,
+          "LookVector": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -1.0
+          },
+          "Position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ],
+      "UIController": [
+        {
+          "AlphaSpeed": -0.10000000149011612,
+          "ClipSize": {
+            "x": 125.0,
+            "y": 125.0
+          },
+          "FrameInterval": 0.20000000298023224,
+          "GameObjectId": 2139,
+          "InitAlpha": 1.0,
+          "SpriteAnimInterval": {
+            "x": 125.0,
+            "y": 0.0
+          },
+          "SpriteSize": {
+            "x": 1625.0,
+            "y": 125.0
+          },
+          "UVSpeed": {
+            "x": 0.10000000149011612,
+            "y": 0.10000000149011612
+          },
+          "bIsActive": true,
+          "bIsReset": false,
+          "bUseAlphaAnimation": false,
+          "bUseSpriteAnimation": true,
+          "bUseUVAnimation": false
+        }
+      ]
+    },
+    "GameObjectId": 2139,
+    "Name": "DimensionCrack"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "Components": {
+      "OnOff": [
+        {
+          "GameObjectId": 1,
+          "IsOn": true
+        }
+      ],
+      "SpriteController": [
+        {
+          "ClipInterval": {
+            "x": 500.0,
+            "y": 0.0
+          },
+          "ClipSize": {
+            "x": 500.0,
+            "y": 500.0
+          },
+          "FrameInterval": 0.03999999910593033,
+          "GameObjectId": 1,
+          "SpriteCount": 7,
+          "SpriteSize": {
+            "x": 2000.0,
+            "y": 500.0
+          },
+          "bIsActive": true,
+          "bIsRecursive": false,
+          "bIsReset": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 1,
+          "LocalPosition": {
+            "x": -0.5,
+            "y": 1.7000000476837158,
+            "z": 0.800000011920929
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 2.5,
+            "y": 2.5,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI3DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "Effect_StartingPoint_Right.png",
+          "GameObjectId": 1,
+          "Layer": 0,
+          "LookVector": {
+            "x": -1.0,
+            "y": 0.0,
+            "z": -1.0
+          },
+          "Position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexSize": {
+            "x": 0.25,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 1,
+    "Name": "Effect_StartingPoint"
+  }
+]

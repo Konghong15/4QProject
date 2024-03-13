@@ -1,0 +1,195 @@
+{
+  "Components": {
+    "Button2D": [
+      {
+        "ButtonEvent": "OnSceneTransition",
+        "GameObjectId": 1,
+        "UserData": "LevelSelectHong.scene"
+      }
+    ],
+    "CutSceneClip": [
+      {
+        "DirectoryPath": "../Resources/CutScene/",
+        "FrameCount": 23,
+        "GameObjectId": 2,
+        "Key": "main"
+      }
+    ],
+    "CutSceneController": [
+      {
+        "FrameCount": 23,
+        "FrameIndex": 22,
+        "FrameInterval": 0.03999999910593033,
+        "GameObjectId": 2,
+        "bIsActive": true,
+        "bIsRecursive": false,
+        "bIsReset": false
+      }
+    ],
+    "EntityIdentity": [
+      {
+        "EntityUUID": "UIAnyKeyInput",
+        "GameObjectId": 1
+      }
+    ],
+    "NeoButton2D": [
+      {
+        "ButtonClickEvent": "OnPlaySound",
+        "ButtonOutEvent": "OnSceneTransition",
+        "ButtonOverEvent": "",
+        "ClickUserData": "SFX_UI_Select_Click",
+        "GameObjectId": 1,
+        "OutUserData": "LevelSelectHong.scene",
+        "OverUserData": ""
+      }
+    ],
+    "OnOff": [
+      {
+        "GameObjectId": 1,
+        "IsOn": true
+      },
+      {
+        "GameObjectId": 2,
+        "IsOn": true
+      },
+      {
+        "GameObjectId": 3,
+        "IsOn": true
+      }
+    ],
+    "SceneComponent": [
+      {
+        "GameObjectId": 3,
+        "SceneName": "TitleHong"
+      }
+    ],
+    "Transform": [
+      {
+        "GameObjectId": 1,
+        "LocalPosition": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalRotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "GameObjectId": 2,
+        "LocalPosition": {
+          "x": 0.04118078947067261,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalRotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "GameObjectId": 3,
+        "LocalPosition": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalRotation": {
+          "w": 1.0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "LocalScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ],
+    "UI2DRenderer": [
+      {
+        "Alpha": 1.0,
+        "FileName": "intro2_text.png",
+        "GameObjectId": 1,
+        "Layer": 0,
+        "Position": {
+          "x": 645.0,
+          "y": 830.0
+        },
+        "Rotation": 0.0,
+        "Size": {
+          "x": 645.0,
+          "y": 130.0
+        },
+        "TexSize": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "TexTranslate": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "bUseAlpha": true
+      }
+    ],
+    "UIController": [
+      {
+        "AlphaSpeed": 4.0,
+        "ClipSize": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "FrameInterval": 0.10000000149011612,
+        "GameObjectId": 1,
+        "InitAlpha": 0.0,
+        "SpriteAnimInterval": {
+          "x": 100.0,
+          "y": 0.0
+        },
+        "SpriteSize": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "UVSpeed": {
+          "x": 0.10000000149011612,
+          "y": 0.10000000149011612
+        },
+        "bIsActive": false,
+        "bIsReset": false,
+        "bUseAlphaAnimation": true,
+        "bUseSpriteAnimation": false,
+        "bUseUVAnimation": false
+      }
+    ]
+  },
+  "GameObjects": [
+    {
+      "Id": 1,
+      "Name": "UIAnyKeyInput"
+    },
+    {
+      "Id": 2,
+      "Name": "CutScene"
+    },
+    {
+      "Id": 3,
+      "Name": "Scene"
+    }
+  ]
+}

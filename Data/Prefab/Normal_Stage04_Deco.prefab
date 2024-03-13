@@ -1,0 +1,6138 @@
+[
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            314,
+            271,
+            313,
+            310,
+            307,
+            304,
+            301,
+            298,
+            295,
+            292,
+            289,
+            288,
+            287,
+            286,
+            285,
+            284,
+            283,
+            282,
+            281,
+            280,
+            277,
+            274,
+            261,
+            270,
+            265,
+            266,
+            267,
+            264,
+            257,
+            258,
+            254,
+            251,
+            250,
+            249,
+            248,
+            247,
+            246,
+            245,
+            244,
+            243,
+            242,
+            241,
+            240,
+            239,
+            238,
+            237,
+            236,
+            235,
+            234,
+            233,
+            232,
+            231,
+            230,
+            229,
+            228,
+            227,
+            226,
+            225,
+            224,
+            223,
+            222,
+            221,
+            220,
+            219,
+            218,
+            217,
+            216,
+            215,
+            214,
+            213,
+            212,
+            211,
+            210
+          ],
+          "GameObjectId": 315
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 315,
+          "IsOn": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 315,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 315,
+    "Name": "Normal_Stage04_Deco"
+  },
+  {
+    "Components": {
+      "OnOff": [
+        {
+          "GameObjectId": 314,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 314,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 314,
+          "LocalPosition": {
+            "x": -0.5473809242248535,
+            "y": 0.24103021621704102,
+            "z": -1.2139999866485596
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 18.263090133666992,
+            "y": 16.85564613342285,
+            "z": 2.809274196624756
+          }
+        }
+      ],
+      "UI3DRenderer": [
+        {
+          "Alpha": 0.5,
+          "FileName": "black.png",
+          "GameObjectId": 314,
+          "Layer": 0,
+          "LookVector": {
+            "x": 0.0,
+            "y": 90.0,
+            "z": -1.0
+          },
+          "Position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 314,
+    "Name": "Black3DUI"
+  },
+  {
+    "Components": {
+      "OnOff": [
+        {
+          "GameObjectId": 271,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 271,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 271,
+          "LocalPosition": {
+            "x": -0.5473809242248535,
+            "y": 0.24103021621704102,
+            "z": -1.2139999866485596
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 18.263090133666992,
+            "y": 16.85564613342285,
+            "z": 2.809274196624756
+          }
+        }
+      ],
+      "UI3DRenderer": [
+        {
+          "Alpha": 0.5,
+          "FileName": "black.png",
+          "GameObjectId": 271,
+          "Layer": 0,
+          "LookVector": {
+            "x": 0.0,
+            "y": 90.0,
+            "z": -1.0
+          },
+          "Position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 271,
+    "Name": "Black3DUI"
+  },
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            312,
+            311
+          ],
+          "GameObjectId": 313
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 313,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 313,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 313,
+          "LocalPosition": {
+            "x": 2.018975257873535,
+            "y": -8.460920333862305,
+            "z": 9.59246826171875
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 313,
+    "Name": "Tower_ModuleA"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower_nowin.fbx",
+          "GameObjectId": 312,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 312,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 312,
+          "ParentID": 313
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 312,
+          "LocalPosition": {
+            "x": -13.9989595413208,
+            "y": -6.957313060760498,
+            "z": -9.681568145751953
+          },
+          "LocalRotation": {
+            "w": 6.116583335824544e-06,
+            "x": -0.7071067690849304,
+            "y": 6.1060018197167665e-06,
+            "z": -0.7071067094802856
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 0.9999995231628418,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 312,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower.fbx",
+          "GameObjectId": 311,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 311,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 311,
+          "ParentID": 313
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 311,
+          "LocalPosition": {
+            "x": -14.0,
+            "y": -3.0,
+            "z": -9.686312675476074
+          },
+          "LocalRotation": {
+            "w": 0.7071067094802856,
+            "x": 0.0,
+            "y": 0.7071067690849304,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 311,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            309,
+            308
+          ],
+          "GameObjectId": 310
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 310,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 310,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 310,
+          "LocalPosition": {
+            "x": 2.018975257873535,
+            "y": -8.460920333862305,
+            "z": 13.59246826171875
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 310,
+    "Name": "Tower_ModuleA"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower_nowin.fbx",
+          "GameObjectId": 309,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 309,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 309,
+          "ParentID": 310
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 309,
+          "LocalPosition": {
+            "x": -13.9989595413208,
+            "y": -6.957313060760498,
+            "z": -9.681568145751953
+          },
+          "LocalRotation": {
+            "w": 6.116583335824544e-06,
+            "x": -0.7071067690849304,
+            "y": 6.1060018197167665e-06,
+            "z": -0.7071067094802856
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 0.9999995231628418,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 309,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower.fbx",
+          "GameObjectId": 308,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 308,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 308,
+          "ParentID": 310
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 308,
+          "LocalPosition": {
+            "x": -14.0,
+            "y": -3.0,
+            "z": -9.686312675476074
+          },
+          "LocalRotation": {
+            "w": 0.7071067094802856,
+            "x": 0.0,
+            "y": 0.7071067690849304,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 308,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            306,
+            305
+          ],
+          "GameObjectId": 307
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 307,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 307,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 307,
+          "LocalPosition": {
+            "x": 2.018975257873535,
+            "y": -0.46092069149017334,
+            "z": 13.59246826171875
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 307,
+    "Name": "Tower_ModuleA"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower_nowin.fbx",
+          "GameObjectId": 306,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 306,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 306,
+          "ParentID": 307
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 306,
+          "LocalPosition": {
+            "x": -13.9989595413208,
+            "y": -6.957313060760498,
+            "z": -9.681568145751953
+          },
+          "LocalRotation": {
+            "w": 6.116583335824544e-06,
+            "x": -0.7071067690849304,
+            "y": 6.1060018197167665e-06,
+            "z": -0.7071067094802856
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 0.9999995231628418,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 306,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower.fbx",
+          "GameObjectId": 305,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 305,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 305,
+          "ParentID": 307
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 305,
+          "LocalPosition": {
+            "x": -14.0,
+            "y": -3.0,
+            "z": -9.686312675476074
+          },
+          "LocalRotation": {
+            "w": 0.7071067094802856,
+            "x": 0.0,
+            "y": 0.7071067690849304,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 305,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            303,
+            302
+          ],
+          "GameObjectId": 304
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 304,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 304,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 304,
+          "LocalPosition": {
+            "x": 2.018975257873535,
+            "y": -0.46092069149017334,
+            "z": 9.59246826171875
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 304,
+    "Name": "Tower_ModuleA"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower_nowin.fbx",
+          "GameObjectId": 303,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 303,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 303,
+          "ParentID": 304
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 303,
+          "LocalPosition": {
+            "x": -13.9989595413208,
+            "y": -6.957313060760498,
+            "z": -9.681568145751953
+          },
+          "LocalRotation": {
+            "w": 6.116583335824544e-06,
+            "x": -0.7071067690849304,
+            "y": 6.1060018197167665e-06,
+            "z": -0.7071067094802856
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 0.9999995231628418,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 303,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower.fbx",
+          "GameObjectId": 302,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 302,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 302,
+          "ParentID": 304
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 302,
+          "LocalPosition": {
+            "x": -14.0,
+            "y": -3.0,
+            "z": -9.686312675476074
+          },
+          "LocalRotation": {
+            "w": 0.7071067094802856,
+            "x": 0.0,
+            "y": 0.7071067690849304,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 302,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            300,
+            299
+          ],
+          "GameObjectId": 301
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 301,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 301,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 301,
+          "LocalPosition": {
+            "x": -1.9810247421264648,
+            "y": -0.46092069149017334,
+            "z": 1.592468023300171
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 301,
+    "Name": "Tower_ModuleA"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower_nowin.fbx",
+          "GameObjectId": 300,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 300,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 300,
+          "ParentID": 301
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 300,
+          "LocalPosition": {
+            "x": -13.9989595413208,
+            "y": -6.957313060760498,
+            "z": -9.681568145751953
+          },
+          "LocalRotation": {
+            "w": 6.116583335824544e-06,
+            "x": -0.7071067690849304,
+            "y": 6.1060018197167665e-06,
+            "z": -0.7071067094802856
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 0.9999995231628418,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 300,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower.fbx",
+          "GameObjectId": 299,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 299,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 299,
+          "ParentID": 301
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 299,
+          "LocalPosition": {
+            "x": -14.0,
+            "y": -3.0,
+            "z": -9.686312675476074
+          },
+          "LocalRotation": {
+            "w": 0.7071067094802856,
+            "x": 0.0,
+            "y": 0.7071067690849304,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 299,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            297,
+            296
+          ],
+          "GameObjectId": 298
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 298,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 298,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 298,
+          "LocalPosition": {
+            "x": -1.9810247421264648,
+            "y": -0.46092069149017334,
+            "z": -2.407531976699829
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 298,
+    "Name": "Tower_ModuleA"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower_nowin.fbx",
+          "GameObjectId": 297,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 297,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 297,
+          "ParentID": 298
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 297,
+          "LocalPosition": {
+            "x": -13.9989595413208,
+            "y": -6.957313060760498,
+            "z": -9.681568145751953
+          },
+          "LocalRotation": {
+            "w": 6.116583335824544e-06,
+            "x": -0.7071067690849304,
+            "y": 6.1060018197167665e-06,
+            "z": -0.7071067094802856
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 0.9999995231628418,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 297,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower.fbx",
+          "GameObjectId": 296,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 296,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 296,
+          "ParentID": 298
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 296,
+          "LocalPosition": {
+            "x": -14.0,
+            "y": -3.0,
+            "z": -9.686312675476074
+          },
+          "LocalRotation": {
+            "w": 0.7071067094802856,
+            "x": 0.0,
+            "y": 0.7071067690849304,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 296,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            294,
+            293
+          ],
+          "GameObjectId": 295
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 295,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 295,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 295,
+          "LocalPosition": {
+            "x": 2.018975257873535,
+            "y": -0.46092069149017334,
+            "z": -6.295898914337158
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 295,
+    "Name": "Tower_ModuleA"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower_nowin.fbx",
+          "GameObjectId": 294,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 294,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 294,
+          "ParentID": 295
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 294,
+          "LocalPosition": {
+            "x": -13.9989595413208,
+            "y": -6.957313060760498,
+            "z": -9.681568145751953
+          },
+          "LocalRotation": {
+            "w": 6.116583335824544e-06,
+            "x": -0.7071067690849304,
+            "y": 6.1060018197167665e-06,
+            "z": -0.7071067094802856
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 0.9999995231628418,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 294,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower.fbx",
+          "GameObjectId": 293,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 293,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 293,
+          "ParentID": 295
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 293,
+          "LocalPosition": {
+            "x": -14.0,
+            "y": -3.0,
+            "z": -9.686312675476074
+          },
+          "LocalRotation": {
+            "w": 0.7071067094802856,
+            "x": 0.0,
+            "y": 0.7071067690849304,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 293,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            291,
+            290
+          ],
+          "GameObjectId": 292
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 292,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 292,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 292,
+          "LocalPosition": {
+            "x": 0.018975257873535156,
+            "y": -0.46092069149017334,
+            "z": -4.016622543334961
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 292,
+    "Name": "Tower_ModuleA"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower_nowin.fbx",
+          "GameObjectId": 291,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 291,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 291,
+          "ParentID": 292
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 291,
+          "LocalPosition": {
+            "x": -13.9989595413208,
+            "y": -6.957313060760498,
+            "z": -9.681568145751953
+          },
+          "LocalRotation": {
+            "w": 8.64267349243164e-06,
+            "x": -6.467198873866611e-14,
+            "y": -7.482868547015187e-09,
+            "z": -1.0
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 0.9999995231628418,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 291,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower.fbx",
+          "GameObjectId": 290,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 290,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 290,
+          "ParentID": 292
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 290,
+          "LocalPosition": {
+            "x": -14.0,
+            "y": -3.0,
+            "z": -9.686312675476074
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 290,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 289,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 289,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 289,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 289,
+          "LocalPosition": {
+            "x": -15.961935997009277,
+            "y": 0.5066807866096497,
+            "z": -12.087139129638672
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.323021206139723e-15,
+            "y": 1.109830538581491e-08,
+            "z": 0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 289,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 288,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 288,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 288,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 288,
+          "LocalPosition": {
+            "x": -15.961935997009277,
+            "y": 0.5066808462142944,
+            "z": -8.091476440429688
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3229947363601214e-15,
+            "y": 1.1098083341209986e-08,
+            "z": 0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 288,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 287,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 287,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 287,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 287,
+          "LocalPosition": {
+            "x": -11.961935997009277,
+            "y": 0.5066806077957153,
+            "z": 3.969409942626953
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3234169822843277e-15,
+            "y": -1.110162539674775e-08,
+            "z": -0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 287,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 286,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 286,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 286,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 286,
+          "LocalPosition": {
+            "x": -11.961935997009277,
+            "y": 0.5066805481910706,
+            "z": -0.030590057373046875
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3234625103052426e-15,
+            "y": -1.110200731346822e-08,
+            "z": -0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 286,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 285,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 285,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 285,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 285,
+          "LocalPosition": {
+            "x": -11.961935997009277,
+            "y": 0.5066804885864258,
+            "z": -4.030590057373047
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3235110029414729e-15,
+            "y": -1.1102414099184443e-08,
+            "z": -0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 285,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 284,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 284,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 284,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 284,
+          "LocalPosition": {
+            "x": -11.961936950683594,
+            "y": 2.506680488586426,
+            "z": -4.030590057373047
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3235503899735202e-15,
+            "y": 1.1102744501556572e-08,
+            "z": 0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 284,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 283,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 283,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 283,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 283,
+          "LocalPosition": {
+            "x": -11.961936950683594,
+            "y": 2.506680488586426,
+            "z": -0.030590057373046875
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.323713549694985e-15,
+            "y": -1.110411318450133e-08,
+            "z": -0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 283,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 282,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 282,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 282,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 282,
+          "LocalPosition": {
+            "x": -11.961936950683594,
+            "y": 2.506680488586426,
+            "z": 3.969409942626953
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3237526190896772e-15,
+            "y": -1.1104440922338199e-08,
+            "z": -0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 282,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 281,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 281,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 281,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 281,
+          "LocalPosition": {
+            "x": -11.96193790435791,
+            "y": 4.506680488586426,
+            "z": 3.969409942626953
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3237800417813445e-15,
+            "y": 1.1104670960548901e-08,
+            "z": 0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 281,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            279,
+            278
+          ],
+          "GameObjectId": 280
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 280,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 280,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 280,
+          "LocalPosition": {
+            "x": 12.018974304199219,
+            "y": -12.460920333862305,
+            "z": -3.960123062133789
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 280,
+    "Name": "Tower_ModuleA"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower_nowin.fbx",
+          "GameObjectId": 279,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 279,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 279,
+          "ParentID": 280
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 279,
+          "LocalPosition": {
+            "x": -13.9989595413208,
+            "y": -6.957313060760498,
+            "z": -9.681568145751953
+          },
+          "LocalRotation": {
+            "w": 8.64267349243164e-06,
+            "x": -6.467198873866611e-14,
+            "y": -7.482868547015187e-09,
+            "z": -1.0
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 0.9999995231628418,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 279,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower.fbx",
+          "GameObjectId": 278,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 278,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 278,
+          "ParentID": 280
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 278,
+          "LocalPosition": {
+            "x": -14.0,
+            "y": -3.0,
+            "z": -9.686312675476074
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 278,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            276,
+            275
+          ],
+          "GameObjectId": 277
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 277,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 277,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 277,
+          "LocalPosition": {
+            "x": 16.01897430419922,
+            "y": -12.460920333862305,
+            "z": -3.960123062133789
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 277,
+    "Name": "Tower_ModuleA"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower_nowin.fbx",
+          "GameObjectId": 276,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 276,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 276,
+          "ParentID": 277
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 276,
+          "LocalPosition": {
+            "x": -13.9989595413208,
+            "y": -6.957313060760498,
+            "z": -9.681568145751953
+          },
+          "LocalRotation": {
+            "w": 8.64267349243164e-06,
+            "x": -6.467198873866611e-14,
+            "y": -7.482868547015187e-09,
+            "z": -1.0
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 0.9999995231628418,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 276,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower.fbx",
+          "GameObjectId": 275,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 275,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 275,
+          "ParentID": 277
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 275,
+          "LocalPosition": {
+            "x": -14.0,
+            "y": -3.0,
+            "z": -9.686312675476074
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 275,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            273,
+            272
+          ],
+          "GameObjectId": 274
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 274,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 274,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 274,
+          "LocalPosition": {
+            "x": 16.01897430419922,
+            "y": -4.460920810699463,
+            "z": -3.960123062133789
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 274,
+    "Name": "Tower_ModuleA"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower_nowin.fbx",
+          "GameObjectId": 273,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 273,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 273,
+          "ParentID": 274
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 273,
+          "LocalPosition": {
+            "x": -13.9989595413208,
+            "y": -6.957313060760498,
+            "z": -9.681568145751953
+          },
+          "LocalRotation": {
+            "w": 8.64267349243164e-06,
+            "x": -6.467198873866611e-14,
+            "y": -7.482868547015187e-09,
+            "z": -1.0
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 0.9999995231628418,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 273,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower.fbx",
+          "GameObjectId": 272,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 272,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 272,
+          "ParentID": 274
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 272,
+          "LocalPosition": {
+            "x": -14.0,
+            "y": -3.0,
+            "z": -9.686312675476074
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 272,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            260,
+            259
+          ],
+          "GameObjectId": 261
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 261,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 261,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 261,
+          "LocalPosition": {
+            "x": 12.018974304199219,
+            "y": -4.460920333862305,
+            "z": -3.960123062133789
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 261,
+    "Name": "Tower_ModuleA"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower_nowin.fbx",
+          "GameObjectId": 260,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 260,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 260,
+          "ParentID": 261
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 260,
+          "LocalPosition": {
+            "x": -13.9989595413208,
+            "y": -6.957313060760498,
+            "z": -9.681568145751953
+          },
+          "LocalRotation": {
+            "w": 8.64267349243164e-06,
+            "x": -6.467198873866611e-14,
+            "y": -7.482868547015187e-09,
+            "z": -1.0
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 0.9999995231628418,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 260,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower.fbx",
+          "GameObjectId": 259,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 259,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 259,
+          "ParentID": 261
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 259,
+          "LocalPosition": {
+            "x": -14.0,
+            "y": -3.0,
+            "z": -9.686312675476074
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 259,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            269,
+            268
+          ],
+          "GameObjectId": 270
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 270,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 270,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 270,
+          "LocalPosition": {
+            "x": 12.018974304199219,
+            "y": 3.539079189300537,
+            "z": -3.960123062133789
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 270,
+    "Name": "Tower_ModuleA"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower_nowin.fbx",
+          "GameObjectId": 269,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 269,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 269,
+          "ParentID": 270
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 269,
+          "LocalPosition": {
+            "x": -13.9989595413208,
+            "y": -6.957313060760498,
+            "z": -9.681568145751953
+          },
+          "LocalRotation": {
+            "w": 8.64267349243164e-06,
+            "x": -6.467198873866611e-14,
+            "y": -7.482868547015187e-09,
+            "z": -1.0
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 0.9999995231628418,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 269,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower.fbx",
+          "GameObjectId": 268,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 268,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 268,
+          "ParentID": 270
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 268,
+          "LocalPosition": {
+            "x": -14.0,
+            "y": -3.0,
+            "z": -9.686312675476074
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 268,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower.fbx",
+          "GameObjectId": 265,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 265,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 265,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 265,
+          "LocalPosition": {
+            "x": -11.981024742126465,
+            "y": -11.460920333862305,
+            "z": -4.093844413757324
+          },
+          "LocalRotation": {
+            "w": 0.7071068286895752,
+            "x": 0.0,
+            "y": 0.7071067094802856,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 0.9999998807907104,
+            "y": 1.0,
+            "z": 0.9999998807907104
+          }
+        }
+      ]
+    },
+    "GameObjectId": 265,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower_nowin.fbx",
+          "GameObjectId": 266,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 266,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 266,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 266,
+          "LocalPosition": {
+            "x": -11.979984283447266,
+            "y": -15.418233871459961,
+            "z": -4.089099884033203
+          },
+          "LocalRotation": {
+            "w": 6.116583335824544e-06,
+            "x": -0.7071067690849304,
+            "y": 6.1060018197167665e-06,
+            "z": -0.7071067094802856
+          },
+          "LocalScale": {
+            "x": 0.9999994039535522,
+            "y": 0.9999992847442627,
+            "z": 0.9999998807907104
+          }
+        }
+      ]
+    },
+    "GameObjectId": 266,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "OnOff": [
+        {
+          "GameObjectId": 267,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 267,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 267,
+          "LocalPosition": {
+            "x": 2.018975257873535,
+            "y": -8.460920333862305,
+            "z": 5.59246826171875
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 267,
+    "Name": "Tower_ModuleA"
+  },
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            263,
+            262
+          ],
+          "GameObjectId": 264
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 264,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 264,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 264,
+          "LocalPosition": {
+            "x": 16.01897430419922,
+            "y": 3.539079189300537,
+            "z": -3.960123062133789
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 264,
+    "Name": "Tower_ModuleA"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower_nowin.fbx",
+          "GameObjectId": 263,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 263,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 263,
+          "ParentID": 264
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 263,
+          "LocalPosition": {
+            "x": -13.9989595413208,
+            "y": -6.957313060760498,
+            "z": -9.681568145751953
+          },
+          "LocalRotation": {
+            "w": 8.64267349243164e-06,
+            "x": -6.467198873866611e-14,
+            "y": -7.482868547015187e-09,
+            "z": -1.0
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 0.9999995231628418,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 263,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower.fbx",
+          "GameObjectId": 262,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 262,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 262,
+          "ParentID": 264
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 262,
+          "LocalPosition": {
+            "x": -14.0,
+            "y": -3.0,
+            "z": -9.686312675476074
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 262,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            256,
+            255
+          ],
+          "GameObjectId": 257
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 257,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 257,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 257,
+          "LocalPosition": {
+            "x": 4.018975257873535,
+            "y": -0.46092069149017334,
+            "z": -7.960123062133789
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 257,
+    "Name": "Tower_ModuleA"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower_nowin.fbx",
+          "GameObjectId": 256,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 256,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 256,
+          "ParentID": 257
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 256,
+          "LocalPosition": {
+            "x": -13.9989595413208,
+            "y": -6.957313060760498,
+            "z": -9.681568145751953
+          },
+          "LocalRotation": {
+            "w": 8.64267349243164e-06,
+            "x": -6.467198873866611e-14,
+            "y": -7.482868547015187e-09,
+            "z": -1.0
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 0.9999995231628418,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 256,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower.fbx",
+          "GameObjectId": 255,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 255,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 255,
+          "ParentID": 257
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 255,
+          "LocalPosition": {
+            "x": -14.0,
+            "y": -3.0,
+            "z": -9.686312675476074
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 255,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 258,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 258,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 258,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 258,
+          "LocalPosition": {
+            "x": -6.001110076904297,
+            "y": 0.506679356098175,
+            "z": -17.925113677978516
+          },
+          "LocalRotation": {
+            "w": -7.644061383871303e-08,
+            "x": -0.707106351852417,
+            "y": 9.21467844250401e-08,
+            "z": 0.7071070671081543
+          },
+          "LocalScale": {
+            "x": 0.9999998211860657,
+            "y": 1.699999451637268,
+            "z": 0.9999998211860657
+          }
+        }
+      ]
+    },
+    "GameObjectId": 258,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            253,
+            252
+          ],
+          "GameObjectId": 254
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 254,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 254,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 254,
+          "LocalPosition": {
+            "x": 8.018975257873535,
+            "y": -0.46092069149017334,
+            "z": -7.960123062133789
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 254,
+    "Name": "Tower_ModuleA"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower_nowin.fbx",
+          "GameObjectId": 253,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 253,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 253,
+          "ParentID": 254
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 253,
+          "LocalPosition": {
+            "x": -13.9989595413208,
+            "y": -6.957313060760498,
+            "z": -9.681568145751953
+          },
+          "LocalRotation": {
+            "w": 8.64267349243164e-06,
+            "x": -6.467198873866611e-14,
+            "y": -7.482868547015187e-09,
+            "z": -1.0
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 0.9999995231628418,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 253,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower.fbx",
+          "GameObjectId": 252,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 252,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 252,
+          "ParentID": 254
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 252,
+          "LocalPosition": {
+            "x": -14.0,
+            "y": -3.0,
+            "z": -9.686312675476074
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 252,
+    "Name": "Tower"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 251,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 251,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 251,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 251,
+          "LocalPosition": {
+            "x": -13.961936950683594,
+            "y": 0.506680965423584,
+            "z": -13.982954978942871
+          },
+          "LocalRotation": {
+            "w": -7.64453957913247e-08,
+            "x": -0.707106351852417,
+            "y": 9.214200247242843e-08,
+            "z": 0.7071070671081543
+          },
+          "LocalScale": {
+            "x": 0.9999998211860657,
+            "y": 1.699999451637268,
+            "z": 0.9999998211860657
+          }
+        }
+      ]
+    },
+    "GameObjectId": 251,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 250,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 250,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 250,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 250,
+          "LocalPosition": {
+            "x": -11.96193790435791,
+            "y": 4.506680488586426,
+            "z": -0.030590012669563293
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3239929646884606e-15,
+            "y": 1.1106457087350918e-08,
+            "z": 0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 250,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 249,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 249,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 249,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 249,
+          "LocalPosition": {
+            "x": -11.961938858032227,
+            "y": 6.506680488586426,
+            "z": -0.030590057373046875
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3240610449615962e-15,
+            "y": 1.1107028186074785e-08,
+            "z": 0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 249,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 248,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 248,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 248,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 248,
+          "LocalPosition": {
+            "x": -11.961938858032227,
+            "y": 6.506680488586426,
+            "z": 3.969409942626953
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.324149771662821e-15,
+            "y": 1.1107772479590494e-08,
+            "z": 0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 248,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 247,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 247,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 247,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 247,
+          "LocalPosition": {
+            "x": -11.961939811706543,
+            "y": 8.506680488586426,
+            "z": 3.969409942626953
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3241602536955433e-15,
+            "y": -1.1107861297432464e-08,
+            "z": -0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 247,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 246,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 246,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 246,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 246,
+          "LocalPosition": {
+            "x": -7.961939811706543,
+            "y": 8.50667953491211,
+            "z": -0.030590012669563293
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3242537449570965e-15,
+            "y": 1.110864555897706e-08,
+            "z": 0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 246,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 245,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 245,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 245,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 245,
+          "LocalPosition": {
+            "x": -7.961939334869385,
+            "y": 10.50667953491211,
+            "z": 3.969409942626953
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3243398246803612e-15,
+            "y": 1.1109366759853856e-08,
+            "z": 0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 245,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 244,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 244,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 244,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 244,
+          "LocalPosition": {
+            "x": -7.961939334869385,
+            "y": 10.50667953491211,
+            "z": -0.030590057373046875
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3244209280850608e-15,
+            "y": 1.1110047104523346e-08,
+            "z": 0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 244,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 243,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 243,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 243,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 243,
+          "LocalPosition": {
+            "x": -7.961939334869385,
+            "y": 10.50667953491211,
+            "z": -4.030590057373047
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3244905965449725e-15,
+            "y": 1.1110631525923509e-08,
+            "z": 0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 243,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 242,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 242,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 242,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 242,
+          "LocalPosition": {
+            "x": -7.961939811706543,
+            "y": 8.50667953491211,
+            "z": -4.030590057373047
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3245310423682039e-15,
+            "y": -1.1110970810079834e-08,
+            "z": -0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 242,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 241,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 241,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 241,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 241,
+          "LocalPosition": {
+            "x": -7.961940288543701,
+            "y": 6.506680011749268,
+            "z": -4.030590057373047
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3246363920910186e-15,
+            "y": -1.1111854547607436e-08,
+            "z": -0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 241,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 240,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 240,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 240,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 240,
+          "LocalPosition": {
+            "x": -7.961940288543701,
+            "y": 6.506680011749268,
+            "z": -8.030590057373047
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3246741909362899e-15,
+            "y": 1.1112171627303269e-08,
+            "z": 0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 240,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 239,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 239,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 239,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 239,
+          "LocalPosition": {
+            "x": -7.961940765380859,
+            "y": 4.506680011749268,
+            "z": -8.030590057373047
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3247261775834276e-15,
+            "y": -1.1112607722907342e-08,
+            "z": -0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 239,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 238,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 238,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 238,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 238,
+          "LocalPosition": {
+            "x": -15.961941719055176,
+            "y": 2.5066778659820557,
+            "z": -12.030590057373047
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3247987047795362e-15,
+            "y": -1.1113216125124836e-08,
+            "z": -0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 238,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 237,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 237,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 237,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 237,
+          "LocalPosition": {
+            "x": -15.961941719055176,
+            "y": 2.5066778659820557,
+            "z": -8.030590057373047
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3248326919765448e-15,
+            "y": 1.111350123039756e-08,
+            "z": 0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 237,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 236,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 236,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 236,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 236,
+          "LocalPosition": {
+            "x": -11.961942672729492,
+            "y": 0.506678581237793,
+            "z": -16.030590057373047
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.324934759446689e-15,
+            "y": 1.1114357434394151e-08,
+            "z": 0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 236,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 235,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 235,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 235,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 235,
+          "LocalPosition": {
+            "x": -7.961943626403809,
+            "y": 2.5066795349121094,
+            "z": -16.030590057373047
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3249974398847858e-15,
+            "y": 1.1114883236018613e-08,
+            "z": 0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 235,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 234,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 234,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 234,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 234,
+          "LocalPosition": {
+            "x": -7.96194314956665,
+            "y": 4.506679534912109,
+            "z": -12.030591011047363
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3248985487881938e-15,
+            "y": 1.1114053677374613e-08,
+            "z": 0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 234,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 233,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 233,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 233,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 233,
+          "LocalPosition": {
+            "x": -7.961943626403809,
+            "y": 6.506679534912109,
+            "z": -12.030591011047363
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3250990838384563e-15,
+            "y": 1.1115735887301526e-08,
+            "z": 0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 233,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 232,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 232,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 232,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 232,
+          "LocalPosition": {
+            "x": 0.03805732727050781,
+            "y": 10.506681442260742,
+            "z": -12.030591011047363
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3251827283419977e-15,
+            "y": 1.1116437548253089e-08,
+            "z": 0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 232,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 231,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 231,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 231,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 231,
+          "LocalPosition": {
+            "x": 0.03805685043334961,
+            "y": 8.506681442260742,
+            "z": -12.030591011047363
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3253409117448974e-15,
+            "y": 1.111776448681212e-08,
+            "z": 0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 231,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 230,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 230,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 230,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 230,
+          "LocalPosition": {
+            "x": 2.013593912124634,
+            "y": 8.506680488586426,
+            "z": -13.961983680725098
+          },
+          "LocalRotation": {
+            "w": -7.64305312372926e-08,
+            "x": -0.707106351852417,
+            "y": 9.215686702646053e-08,
+            "z": 0.7071070671081543
+          },
+          "LocalScale": {
+            "x": 0.9999998211860657,
+            "y": 1.699999451637268,
+            "z": 0.9999998211860657
+          }
+        }
+      ]
+    },
+    "GameObjectId": 230,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 229,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 229,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 229,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 229,
+          "LocalPosition": {
+            "x": 2.013593912124634,
+            "y": 10.506680488586426,
+            "z": -13.961984634399414
+          },
+          "LocalRotation": {
+            "w": -9.215694518616147e-08,
+            "x": 0.707106351852417,
+            "y": 7.643043886673695e-08,
+            "z": -0.7071070671081543
+          },
+          "LocalScale": {
+            "x": 0.9999998211860657,
+            "y": 1.699999451637268,
+            "z": 0.9999998211860657
+          }
+        }
+      ]
+    },
+    "GameObjectId": 229,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 228,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 228,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 228,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 228,
+          "LocalPosition": {
+            "x": -5.986406326293945,
+            "y": 4.506680488586426,
+            "z": -13.961973190307617
+          },
+          "LocalRotation": {
+            "w": -9.215694518616147e-08,
+            "x": 0.707106351852417,
+            "y": 7.643043886673695e-08,
+            "z": -0.7071070671081543
+          },
+          "LocalScale": {
+            "x": 0.9999998211860657,
+            "y": 1.699999451637268,
+            "z": 0.9999998211860657
+          }
+        }
+      ]
+    },
+    "GameObjectId": 228,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 227,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 227,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 227,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 227,
+          "LocalPosition": {
+            "x": -1.9864063262939453,
+            "y": 4.506680488586426,
+            "z": -13.9619779586792
+          },
+          "LocalRotation": {
+            "w": -9.215694518616147e-08,
+            "x": 0.707106351852417,
+            "y": 7.643043886673695e-08,
+            "z": -0.7071070671081543
+          },
+          "LocalScale": {
+            "x": 0.9999998211860657,
+            "y": 1.699999451637268,
+            "z": 0.9999998211860657
+          }
+        }
+      ]
+    },
+    "GameObjectId": 227,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 226,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 226,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 226,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 226,
+          "LocalPosition": {
+            "x": -1.9864063262939453,
+            "y": 6.506680488586426,
+            "z": -13.961977005004883
+          },
+          "LocalRotation": {
+            "w": -9.215694518616147e-08,
+            "x": 0.707106351852417,
+            "y": 7.643043886673695e-08,
+            "z": -0.7071070671081543
+          },
+          "LocalScale": {
+            "x": 0.9999998211860657,
+            "y": 1.699999451637268,
+            "z": 0.9999998211860657
+          }
+        }
+      ]
+    },
+    "GameObjectId": 226,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 225,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 225,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 225,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 225,
+          "LocalPosition": {
+            "x": -5.986406326293945,
+            "y": 6.506680488586426,
+            "z": -13.9619722366333
+          },
+          "LocalRotation": {
+            "w": -7.64305312372926e-08,
+            "x": -0.707106351852417,
+            "y": 9.215686702646053e-08,
+            "z": 0.7071070671081543
+          },
+          "LocalScale": {
+            "x": 0.9999998211860657,
+            "y": 1.699999451637268,
+            "z": 0.9999998211860657
+          }
+        }
+      ]
+    },
+    "GameObjectId": 225,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 224,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 224,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 224,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 224,
+          "LocalPosition": {
+            "x": -1.9863996505737305,
+            "y": 8.506682395935059,
+            "z": -5.961976051330566
+          },
+          "LocalRotation": {
+            "w": -7.64305312372926e-08,
+            "x": -0.707106351852417,
+            "y": 9.215686702646053e-08,
+            "z": 0.7071070671081543
+          },
+          "LocalScale": {
+            "x": 0.9999998211860657,
+            "y": 1.699999451637268,
+            "z": 0.9999998211860657
+          }
+        }
+      ]
+    },
+    "GameObjectId": 224,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 223,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 223,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 223,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 223,
+          "LocalPosition": {
+            "x": -11.96193790435791,
+            "y": 4.506680488586426,
+            "z": -4.030590057373047
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3238133937036427e-15,
+            "y": 1.1104950736751107e-08,
+            "z": 0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 0.9999995231628418,
+            "y": 1.699999213218689,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 223,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 222,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 222,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 222,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 222,
+          "LocalPosition": {
+            "x": -5.9863996505737305,
+            "y": 10.506682395935059,
+            "z": -5.961970806121826
+          },
+          "LocalRotation": {
+            "w": -9.215694518616147e-08,
+            "x": 0.707106351852417,
+            "y": 7.643043886673695e-08,
+            "z": -0.7071070671081543
+          },
+          "LocalScale": {
+            "x": 0.9999998211860657,
+            "y": 1.699999451637268,
+            "z": 0.9999998211860657
+          }
+        }
+      ]
+    },
+    "GameObjectId": 222,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 221,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 221,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 221,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 221,
+          "LocalPosition": {
+            "x": -1.9863996505737305,
+            "y": 10.506682395935059,
+            "z": -5.961975574493408
+          },
+          "LocalRotation": {
+            "w": -7.64305312372926e-08,
+            "x": -0.707106351852417,
+            "y": 9.215686702646053e-08,
+            "z": 0.7071070671081543
+          },
+          "LocalScale": {
+            "x": 0.9999998211860657,
+            "y": 1.699999451637268,
+            "z": 0.9999998211860657
+          }
+        }
+      ]
+    },
+    "GameObjectId": 221,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 220,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 220,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 220,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 220,
+          "LocalPosition": {
+            "x": 2.0136003494262695,
+            "y": 10.506682395935059,
+            "z": -5.96198034286499
+          },
+          "LocalRotation": {
+            "w": -7.64305312372926e-08,
+            "x": -0.707106351852417,
+            "y": 9.215686702646053e-08,
+            "z": 0.7071070671081543
+          },
+          "LocalScale": {
+            "x": 0.9999998211860657,
+            "y": 1.699999451637268,
+            "z": 0.9999998211860657
+          }
+        }
+      ]
+    },
+    "GameObjectId": 220,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 219,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 219,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 219,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 219,
+          "LocalPosition": {
+            "x": 2.0136003494262695,
+            "y": 8.506682395935059,
+            "z": -5.961979866027832
+          },
+          "LocalRotation": {
+            "w": -9.215694518616147e-08,
+            "x": 0.707106351852417,
+            "y": 7.643043886673695e-08,
+            "z": -0.7071070671081543
+          },
+          "LocalScale": {
+            "x": 0.9999998211860657,
+            "y": 1.699999451637268,
+            "z": 0.9999998211860657
+          }
+        }
+      ]
+    },
+    "GameObjectId": 219,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 218,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 218,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 218,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 218,
+          "LocalPosition": {
+            "x": -9.986392974853516,
+            "y": 8.506684303283691,
+            "z": 2.038034439086914
+          },
+          "LocalRotation": {
+            "w": -7.64305312372926e-08,
+            "x": -0.707106351852417,
+            "y": 9.215686702646053e-08,
+            "z": 0.7071070671081543
+          },
+          "LocalScale": {
+            "x": 0.9999998211860657,
+            "y": 1.699999451637268,
+            "z": 0.9999998211860657
+          }
+        }
+      ]
+    },
+    "GameObjectId": 218,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 217,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 217,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 217,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 217,
+          "LocalPosition": {
+            "x": -9.986396789550781,
+            "y": 6.50668478012085,
+            "z": -1.9619660377502441
+          },
+          "LocalRotation": {
+            "w": -9.215694518616147e-08,
+            "x": 0.707106351852417,
+            "y": 7.643043886673695e-08,
+            "z": -0.7071070671081543
+          },
+          "LocalScale": {
+            "x": 0.9999998211860657,
+            "y": 1.699999451637268,
+            "z": 0.9999998211860657
+          }
+        }
+      ]
+    },
+    "GameObjectId": 217,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 216,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 216,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 216,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 216,
+          "LocalPosition": {
+            "x": -9.986400604248047,
+            "y": 4.506685733795166,
+            "z": -5.961965560913086
+          },
+          "LocalRotation": {
+            "w": -7.64305312372926e-08,
+            "x": -0.707106351852417,
+            "y": 9.215686702646053e-08,
+            "z": 0.7071070671081543
+          },
+          "LocalScale": {
+            "x": 0.9999998211860657,
+            "y": 1.699999451637268,
+            "z": 0.9999998211860657
+          }
+        }
+      ]
+    },
+    "GameObjectId": 216,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 215,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 215,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 215,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 215,
+          "LocalPosition": {
+            "x": -9.986411094665527,
+            "y": 0.5066884160041809,
+            "z": -17.961963653564453
+          },
+          "LocalRotation": {
+            "w": -7.64305312372926e-08,
+            "x": -0.707106351852417,
+            "y": 9.215686702646053e-08,
+            "z": 0.7071070671081543
+          },
+          "LocalScale": {
+            "x": 0.9999998211860657,
+            "y": 1.699999451637268,
+            "z": 0.9999998211860657
+          }
+        }
+      ]
+    },
+    "GameObjectId": 215,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 214,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 214,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 214,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 214,
+          "LocalPosition": {
+            "x": -5.986411094665527,
+            "y": 2.506688356399536,
+            "z": -17.96196937561035
+          },
+          "LocalRotation": {
+            "w": -9.215694518616147e-08,
+            "x": 0.707106351852417,
+            "y": 7.643043886673695e-08,
+            "z": -0.7071070671081543
+          },
+          "LocalScale": {
+            "x": 0.9999998211860657,
+            "y": 1.699999451637268,
+            "z": 0.9999998211860657
+          }
+        }
+      ]
+    },
+    "GameObjectId": 214,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 213,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 213,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 213,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 213,
+          "LocalPosition": {
+            "x": -9.986407279968262,
+            "y": 2.5066874027252197,
+            "z": -13.96196460723877
+          },
+          "LocalRotation": {
+            "w": -7.64305312372926e-08,
+            "x": -0.707106351852417,
+            "y": 9.215686702646053e-08,
+            "z": 0.7071070671081543
+          },
+          "LocalScale": {
+            "x": 0.9999998211860657,
+            "y": 1.699999451637268,
+            "z": 0.9999998211860657
+          }
+        }
+      ]
+    },
+    "GameObjectId": 213,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 212,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 212,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 212,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 212,
+          "LocalPosition": {
+            "x": -13.986407279968262,
+            "y": 2.5066874027252197,
+            "z": -13.961959838867188
+          },
+          "LocalRotation": {
+            "w": -9.215694518616147e-08,
+            "x": 0.707106351852417,
+            "y": 7.643043886673695e-08,
+            "z": -0.7071070671081543
+          },
+          "LocalScale": {
+            "x": 0.9999998211860657,
+            "y": 1.699999451637268,
+            "z": 0.9999998211860657
+          }
+        }
+      ]
+    },
+    "GameObjectId": 212,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 211,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 211,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 211,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 211,
+          "LocalPosition": {
+            "x": -5.9863996505737305,
+            "y": 8.506682395935059,
+            "z": -5.961971282958984
+          },
+          "LocalRotation": {
+            "w": -7.64305312372926e-08,
+            "x": -0.707106351852417,
+            "y": 9.215686702646053e-08,
+            "z": 0.7071070671081543
+          },
+          "LocalScale": {
+            "x": 0.9999998211860657,
+            "y": 1.699999451637268,
+            "z": 0.9999998211860657
+          }
+        }
+      ]
+    },
+    "GameObjectId": 211,
+    "Name": "Deco_Floor_Line(X)"
+  },
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "normal4.fbx",
+          "GameObjectId": 210,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 210,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 210,
+          "ParentID": 315
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 210,
+          "LocalPosition": {
+            "x": -0.9525468349456787,
+            "y": -8.0,
+            "z": -0.5943315029144287
+          },
+          "LocalRotation": {
+            "w": 0.7071068286895752,
+            "x": 0.0,
+            "y": 0.7071067094802856,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 0.9999998807907104,
+            "y": 1.0,
+            "z": 0.9999998807907104
+          }
+        }
+      ]
+    },
+    "GameObjectId": 210,
+    "Name": "Wall"
+  }
+]

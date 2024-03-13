@@ -1,0 +1,46 @@
+[
+  {
+    "Components": {
+      "OnOff": [
+        {
+          "GameObjectId": 332945529,
+          "IsOn": true
+        }
+      ],
+      "SkyBoxRenderer": [
+        {
+          "BRDF_LUTName": "CubicFirstCubeMapBrdf.dds",
+          "DiffuseName": "CubicFirstCubeMapDiffuseHDR.dds",
+          "GameObjectId": 332945529,
+          "SkyBoxName": "CubicFirstCubeMapEnvHDR.dds",
+          "SpecularName": "CubicFirstCubeMapSpecularHDR.dds",
+          "bUseIBL": true,
+          "bUseSkyBox": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 332945529,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 332945529,
+    "Name": "SkyBox"
+  }
+]

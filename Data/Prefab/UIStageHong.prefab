@@ -1,0 +1,217 @@
+[
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            297,
+            298
+          ],
+          "GameObjectId": 296
+        }
+      ],
+      "EntityIdentity": [
+        {
+          "EntityUUID": "NormalUIStageHong",
+          "GameObjectId": 296
+        }
+      ],
+      "NeoButton2D": [
+        {
+          "ButtonClickEvent": "OnStageBtnClicked",
+          "ButtonOutEvent": "OnLevelCursorOut",
+          "ButtonOverEvent": "OnLevelCursorIn",
+          "ClickUserData": "StageExample.scene",
+          "GameObjectId": 296,
+          "OutUserData": "NormalUIStageHong",
+          "OverUserData": "NormalUIStageHong"
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 296,
+          "IsOn": false
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 296,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": -1.4901164746561335e-08,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 0.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "ex)_level.png",
+          "GameObjectId": 296,
+          "Layer": 1,
+          "Position": {
+            "x": 232.0,
+            "y": 330.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 432.0,
+            "y": 34.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 296,
+    "Name": "UIStageHong"
+  },
+  {
+    "Components": {
+      "OnOff": [
+        {
+          "GameObjectId": 297,
+          "IsOn": false
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 297,
+          "ParentID": 296
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 297,
+          "LocalPosition": {
+            "x": 10.606998443603516,
+            "y": -2.528905497456435e-06,
+            "z": -10.606998443603516
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": -2.2351741790771484e-08,
+            "y": -1.0058283805847168e-07,
+            "z": -7.450580596923828e-08
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "thumbnail_g.png",
+          "GameObjectId": 297,
+          "Layer": 1,
+          "Position": {
+            "x": 811.0,
+            "y": 277.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 405.0,
+            "y": 465.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 297,
+    "Name": "Preview"
+  },
+  {
+    "Components": {
+      "OnOff": [
+        {
+          "GameObjectId": 298,
+          "IsOn": false
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 298,
+          "ParentID": 296
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 298,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": -2.528905497456435e-06,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": -2.2351741790771484e-08,
+            "y": -1.0058283805847168e-07,
+            "z": -7.450580596923828e-08
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "ui_lievel_select.png",
+          "GameObjectId": 298,
+          "Layer": 2,
+          "Position": {
+            "x": 238.0,
+            "y": 330.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 425.0,
+            "y": 37.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 298,
+    "Name": "UIMouseIn"
+  }
+]

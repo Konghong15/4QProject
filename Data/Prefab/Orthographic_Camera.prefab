@@ -1,0 +1,46 @@
+[
+  {
+    "Components": {
+      "CameraComponent": [
+        {
+          "Aspect": 1.777999997138977,
+          "FarClipPlane": 1000.0,
+          "FieldOfView": 0.7853981852531433,
+          "GameObjectId": 1,
+          "NearClipPlane": 0.10000000149011612,
+          "OrthoSize": 50.0,
+          "Orthographic": true
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 1,
+          "IsOn": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 1,
+          "LocalPosition": {
+            "x": -15.0,
+            "y": 12.0,
+            "z": -15.0
+          },
+          "LocalRotation": {
+            "w": 0.888090193271637,
+            "x": 0.254655659198761,
+            "y": 0.3678586184978485,
+            "z": -0.10548168420791626
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 1,
+    "Name": "Orthographic_Camera"
+  }
+]

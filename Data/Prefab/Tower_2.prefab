@@ -1,0 +1,55 @@
+[
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Tower.fbx",
+          "GameObjectId": 2475780306,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 2475780306,
+          "IsOn": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 2475780306,
+          "LocalPosition": {
+            "x": -4.05851936340332,
+            "y": -2.8854358196258545,
+            "z": -12.009233474731445
+          },
+          "LocalRotation": {
+            "w": 0.7069336771965027,
+            "x": 0.0,
+            "y": 0.7072798013687134,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 2475780306,
+    "Name": "Tower_2"
+  }
+]

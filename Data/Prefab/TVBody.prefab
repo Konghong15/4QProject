@@ -1,0 +1,289 @@
+[
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            88279422,
+            88279427,
+            88279428
+          ],
+          "GameObjectId": 88279426
+        }
+      ],
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Ui_TV.fbx",
+          "GameObjectId": 88279426,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 88279426,
+          "IsOn": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 88279426,
+          "LocalPosition": {
+            "x": -2.4466638565063477,
+            "y": 8.208599090576172,
+            "z": -2.4447379112243652
+          },
+          "LocalRotation": {
+            "w": 0.9238795042037964,
+            "x": 0.0,
+            "y": 0.3826834261417389,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 2.0,
+            "y": 2.0,
+            "z": 2.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 88279426,
+    "Name": "TVBody"
+  },
+  {
+    "Components": {
+      "EntityIdentity": [
+        {
+          "EntityUUID": "TVGlitch",
+          "GameObjectId": 88279422
+        }
+      ],
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Ui_Tv_Glitch.fbx",
+          "GameObjectId": 88279422,
+          "TexSize": {
+            "x": 0.0625,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.8125,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 88279422,
+          "IsOn": false
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 88279422,
+          "ParentID": 88279426
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 88279422,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UIController": [
+        {
+          "AlphaSpeed": -0.10000000149011612,
+          "ClipSize": {
+            "x": 256.0,
+            "y": 256.0
+          },
+          "FrameInterval": 0.10000000149011612,
+          "GameObjectId": 88279422,
+          "InitAlpha": 1.0,
+          "SpriteAnimInterval": {
+            "x": 256.0,
+            "y": 0.0
+          },
+          "SpriteSize": {
+            "x": 4096.0,
+            "y": 256.0
+          },
+          "UVSpeed": {
+            "x": 0.10000000149011612,
+            "y": 0.10000000149011612
+          },
+          "bIsActive": true,
+          "bIsReset": false,
+          "bUseAlphaAnimation": false,
+          "bUseSpriteAnimation": true,
+          "bUseUVAnimation": false
+        }
+      ]
+    },
+    "GameObjectId": 88279422,
+    "Name": "TVGlitch"
+  },
+  {
+    "Components": {
+      "EntityIdentity": [
+        {
+          "EntityUUID": "TVHard",
+          "GameObjectId": 88279427
+        }
+      ],
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Ui_Tv_Hard.fbx",
+          "GameObjectId": 88279427,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 88279427,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 88279427,
+          "ParentID": 88279426
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 88279427,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 88279427,
+    "Name": "TVHard"
+  },
+  {
+    "Components": {
+      "EntityIdentity": [
+        {
+          "EntityUUID": "TVNormal",
+          "GameObjectId": 88279428
+        }
+      ],
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Ui_Tv_Normal.fbx",
+          "GameObjectId": 88279428,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 88279428,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 88279428,
+          "ParentID": 88279426
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 88279428,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 88279428,
+    "Name": "TVNormal"
+  }
+]

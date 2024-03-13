@@ -1,0 +1,55 @@
+[
+  {
+    "Components": {
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Deco_Floor_Line(Y).fbx",
+          "GameObjectId": 125,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 125,
+          "IsOn": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 125,
+          "LocalPosition": {
+            "x": -0.20657210052013397,
+            "y": 2.9861345291137695,
+            "z": -8.024401664733887
+          },
+          "LocalRotation": {
+            "w": -1.1920928955078125e-07,
+            "x": 1.3275348329574044e-15,
+            "y": 1.1136168431846727e-08,
+            "z": 0.9999998807907104
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.7000000476837158,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 125,
+    "Name": "Deco_Floor_Line(Y)"
+  }
+]

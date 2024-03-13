@@ -1,0 +1,411 @@
+[
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            44,
+            45,
+            46,
+            47
+          ],
+          "GameObjectId": 48
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 48,
+          "IsOn": true
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 48,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 48,
+    "Name": "StageOverClear"
+  },
+  {
+    "Components": {
+      "OnOff": [
+        {
+          "GameObjectId": 44,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 44,
+          "ParentID": 48
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 44,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "beaver_loading1.png",
+          "GameObjectId": 44,
+          "Layer": 1,
+          "Position": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 1920.0,
+            "y": 1080.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 44,
+    "Name": "ClearBackground"
+  },
+  {
+    "Components": {
+      "OnOff": [
+        {
+          "GameObjectId": 45,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 45,
+          "ParentID": 48
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 45,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "TransformAnim2D": [
+        {
+          "EndPosition": {
+            "x": -317.0,
+            "y": 275.0
+          },
+          "EndRotation": 0.0,
+          "EndSize": {
+            "x": 2500.0,
+            "y": 260.0
+          },
+          "GameObjectId": 45,
+          "InitPosition": {
+            "x": 2138.0,
+            "y": 275.0
+          },
+          "InitRotation": 0.0,
+          "InitSize": {
+            "x": 1250.0,
+            "y": 130.0
+          },
+          "ProcessingTime": 0.4000000059604645,
+          "bIsActive": true,
+          "bIsRecursive": false,
+          "bIsReset": false
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "UI_StageEnd_Clear.png",
+          "GameObjectId": 45,
+          "Layer": 2,
+          "Position": {
+            "x": -317.0,
+            "y": 275.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 2500.0,
+            "y": 260.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 45,
+    "Name": "ClearArrow"
+  },
+  {
+    "Components": {
+      "NeoButton2D": [
+        {
+          "ButtonClickEvent": "OnNextLevelButtonClick",
+          "ButtonOutEvent": "",
+          "ButtonOverEvent": "",
+          "ClickUserData": "",
+          "GameObjectId": 46,
+          "OutUserData": "",
+          "OverUserData": ""
+        }
+      ],
+      "NeoTransformAnim2D": [
+        {
+          "EndPosition": {
+            "x": 1446.0,
+            "y": 689.0
+          },
+          "EndRotation": 0.0,
+          "EndSize": {
+            "x": 526.0,
+            "y": 140.0
+          },
+          "GameObjectId": 46,
+          "InitPosition": {
+            "x": 2546.0,
+            "y": 689.0
+          },
+          "InitRotation": 0.0,
+          "InitSize": {
+            "x": 526.0,
+            "y": 140.0
+          },
+          "ProcessingTime": 0.800000011920929,
+          "bIsActive": true,
+          "bIsRecursive": false,
+          "bIsReset": false,
+          "bIsReverse": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 46,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 46,
+          "ParentID": 48
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 46,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "UI_StageEnd_Next.png",
+          "GameObjectId": 46,
+          "Layer": 2,
+          "Position": {
+            "x": 1446.0,
+            "y": 689.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 526.0,
+            "y": 140.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 46,
+    "Name": "NextArrow"
+  },
+  {
+    "Components": {
+      "NeoButton2D": [
+        {
+          "ButtonClickEvent": "OnSceneTransition",
+          "ButtonOutEvent": "",
+          "ButtonOverEvent": "",
+          "ClickUserData": "LevelSelectHong.scene",
+          "GameObjectId": 47,
+          "OutUserData": "",
+          "OverUserData": ""
+        }
+      ],
+      "NeoTransformAnim2D": [
+        {
+          "EndPosition": {
+            "x": 1579.0,
+            "y": 851.0
+          },
+          "EndRotation": 0.0,
+          "EndSize": {
+            "x": 375.0,
+            "y": 100.0
+          },
+          "GameObjectId": 47,
+          "InitPosition": {
+            "x": 2546.0,
+            "y": 851.0
+          },
+          "InitRotation": 0.0,
+          "InitSize": {
+            "x": 375.0,
+            "y": 100.0
+          },
+          "ProcessingTime": 1.2000000476837158,
+          "bIsActive": true,
+          "bIsRecursive": false,
+          "bIsReset": false,
+          "bIsReverse": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 47,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 47,
+          "ParentID": 48
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 47,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UI2DRenderer": [
+        {
+          "Alpha": 1.0,
+          "FileName": "UI_StageEnd_Home.png",
+          "GameObjectId": 47,
+          "Layer": 2,
+          "Position": {
+            "x": 1579.0,
+            "y": 851.0
+          },
+          "Rotation": 0.0,
+          "Size": {
+            "x": 375.0,
+            "y": 100.0
+          },
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "bUseAlpha": true
+        }
+      ]
+    },
+    "GameObjectId": 47,
+    "Name": "LobbyArrow"
+  }
+]

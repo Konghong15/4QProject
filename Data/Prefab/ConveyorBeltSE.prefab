@@ -1,0 +1,215 @@
+[
+  {
+    "Components": {
+      "Children": [
+        {
+          "ChildrenID": [
+            179
+          ],
+          "GameObjectId": 178
+        }
+      ],
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Obj_Box_Rain.fbx",
+          "GameObjectId": 178,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "NeoConveyorBelt": [
+        {
+          "GameObjectId": 178,
+          "beltDirection": 0,
+          "beltForce": 2.0,
+          "chainedButtonID": 0,
+          "isWorking": true
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 178,
+          "IsOn": true
+        }
+      ],
+      "RigidBody": [
+        {
+          "Extention": {
+            "x": -0.10000000149011612,
+            "y": 0.15000000596046448,
+            "z": -0.10000000149011612
+          },
+          "Force": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "GameObjectId": 178,
+          "LOCK_ANGULAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "LOCK_LINEAR": {
+            "x": false,
+            "y": false,
+            "z": false
+          },
+          "MakeCollision": true,
+          "NoGravity": false,
+          "Size": {
+            "x": 2.0,
+            "y": 2.0,
+            "z": 2.0
+          },
+          "Velocity": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "Weight": 1.0,
+          "eMaterial": 2,
+          "ePhysicLayer": 2,
+          "eactorType": 0,
+          "ecollisionType": 0,
+          "eshapeType": 0
+        }
+      ],
+      "Tag": [
+        {
+          "GameObjectId": 178,
+          "tag": 8
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 178,
+          "LocalPosition": {
+            "x": 2.0,
+            "y": 6.0,
+            "z": 3.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    "GameObjectId": 178,
+    "Name": "ConveyorBeltSE"
+  },
+  {
+    "Components": {
+      "ConveyorBeltPlane": [
+        {
+          "GameObjectId": 179,
+          "chainedBeltID": 52571652
+        }
+      ],
+      "MeshRenderer": [
+        {
+          "Alpha": 1.0,
+          "AnimName": ".fbx",
+          "ClipName": "",
+          "FileName": "Obj_Box_Rain_AnimationPlane.fbx",
+          "GameObjectId": 179,
+          "TexSize": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "TexTranslate": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "TimePos": 0.0,
+          "bIsRecursive": true,
+          "bUseAlpha": false
+        }
+      ],
+      "OnOff": [
+        {
+          "GameObjectId": 179,
+          "IsOn": true
+        }
+      ],
+      "Parent": [
+        {
+          "GameObjectId": 179,
+          "ParentID": 178
+        }
+      ],
+      "Transform": [
+        {
+          "GameObjectId": 179,
+          "LocalPosition": {
+            "x": 0.0,
+            "y": 0.009753227233886719,
+            "z": 0.0
+          },
+          "LocalRotation": {
+            "w": 1.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ],
+      "UIController": [
+        {
+          "AlphaSpeed": -0.10000000149011612,
+          "ClipSize": {
+            "x": 100.0,
+            "y": 100.0
+          },
+          "FrameInterval": 0.10000000149011612,
+          "GameObjectId": 179,
+          "InitAlpha": 1.0,
+          "SpriteAnimInterval": {
+            "x": 100.0,
+            "y": 0.0
+          },
+          "SpriteSize": {
+            "x": 100.0,
+            "y": 100.0
+          },
+          "UVSpeed": {
+            "x": 0.0,
+            "y": 1.0
+          },
+          "bIsActive": true,
+          "bIsReset": false,
+          "bUseAlphaAnimation": false,
+          "bUseSpriteAnimation": false,
+          "bUseUVAnimation": false
+        }
+      ]
+    },
+    "GameObjectId": 179,
+    "Name": "ConveyorBeltPlane"
+  }
+]
